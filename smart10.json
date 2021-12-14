@@ -1,0 +1,5426 @@
+[
+    {
+        "id": "195-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Till vilken av de sju världsdelarna räknas (geografiskt)…",
+        "answers": [
+            {
+                "alternative": "Seychellerna",
+                "answer": "Afrika"
+            },
+            {
+                "alternative": "Samoa",
+                "answer": "Oceanien"
+            },
+            {
+                "alternative": "Mauritius",
+                "answer": "Afrika"
+            },
+            {
+                "alternative": "Bahamas",
+                "answer": "Nordamerika"
+            },
+            {
+                "alternative": "Filippinerna",
+                "answer": "Asien"
+            },
+            {
+                "alternative": "Grönland",
+                "answer": "Nordamerika"
+            },
+            {
+                "alternative": "Papua Nya Guinea",
+                "answer": "Oceanien"
+            },
+            {
+                "alternative": "Komorerna",
+                "answer": "Afrika"
+            },
+            {
+                "alternative": "Indonesien",
+                "answer": "Asien"
+            },
+            {
+                "alternative": "Jamaica",
+                "answer": "Nordamerika"
+            }
+        ]
+    },
+    {
+        "id": "95-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Från vilket fantasyepos?",
+        "answers": [
+            {
+                "alternative": "Ankh-Morpork",
+                "answer": "Skivvärlden"
+            },
+            {
+                "alternative": "Jon Snow",
+                "answer": "Sagan om is och eld"
+            },
+            {
+                "alternative": "Moria",
+                "answer": "Sagan om ringen"
+            },
+            {
+                "alternative": "faunen Tumnus",
+                "answer": "Berättelsen om Narnia"
+            },
+            {
+                "alternative": "Isabella, Edward och Jacob",
+                "answer": "Twilight"
+            },
+            {
+                "alternative": "Dobby",
+                "answer": "Harry Potter"
+            },
+            {
+                "alternative": "syskonen Ohmsford och Allanon",
+                "answer": "Shannara"
+            },
+            {
+                "alternative": "Roland of Gilead",
+                "answer": "Det mörka tornet"
+            },
+            {
+                "alternative": "Halvblodslägret",
+                "answer": "Percy Jackson"
+            },
+            {
+                "alternative": "Ged och ön Roke",
+                "answer": "Övärlden"
+            }
+        ]
+    },
+    {
+        "id": "96-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "EU-medlemmar (2021)",
+        "answers": [
+            {
+                "alternative": "Spanien",
+                "answer": true
+            },
+            {
+                "alternative": "Turkiet",
+                "answer": false
+            },
+            {
+                "alternative": "Malta",
+                "answer": true
+            },
+            {
+                "alternative": "Bulgarien",
+                "answer": true
+            },
+            {
+                "alternative": "Cypern",
+                "answer": true
+            },
+            {
+                "alternative": "Kroatien",
+                "answer": true
+            },
+            {
+                "alternative": "Litauen",
+                "answer": true
+            },
+            {
+                "alternative": "Island",
+                "answer": false
+            },
+            {
+                "alternative": "Italien",
+                "answer": true
+            },
+            {
+                "alternative": "Albania",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "196-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Mat, plats eller både och?",
+        "answers": [
+            {
+                "alternative": "Tabasco",
+                "answer": "både och"
+            },
+            {
+                "alternative": "Parma",
+                "answer": "både och"
+            },
+            {
+                "alternative": "Ossobuco",
+                "answer": "mat"
+            },
+            {
+                "alternative": "Vindaloo",
+                "answer": "mat"
+            },
+            {
+                "alternative": "Tchad",
+                "answer": "plats"
+            },
+            {
+                "alternative": "Guyana",
+                "answer": "plats"
+            },
+            {
+                "alternative": "Rhode Island",
+                "answer": "både och"
+            },
+            {
+                "alternative": "Croissant",
+                "answer": "mat"
+            },
+            {
+                "alternative": "Worcestershire",
+                "answer": "både och"
+            },
+            {
+                "alternative": "Rambutan",
+                "answer": "mat"
+            }
+        ]
+    },
+    {
+        "id": "144-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vad saknas i bandnamnet?",
+        "answers": [
+            {
+                "alternative": "Orsa ____",
+                "answer": "spelmän"
+            },
+            {
+                "alternative": "Electric ____ Orchestra",
+                "answer": "Light"
+            },
+            {
+                "alternative": "Träd ____ stenar",
+                "answer": "gräs och"
+            },
+            {
+                "alternative": "The Beacy ____",
+                "answer": "Boys"
+            },
+            {
+                "alternative": "They ____ by Night",
+                "answer": "Live"
+            },
+            {
+                "alternative": "Klart grabben ska ha",
+                "answer": "en husvagn"
+            },
+            {
+                "alternative": "The Jimi Hendrix ____",
+                "answer": "Experience"
+            },
+            {
+                "alternative": "____ of Leon",
+                "answer": "Kings"
+            },
+            {
+                "alternative": "Manic ____ Preachers",
+                "answer": "Street"
+            },
+            {
+                "alternative": "A ____ Called Quest",
+                "answer": "Tribe"
+            }
+        ]
+    },
+    {
+        "id": "44-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Klarar man sig (ganska bra) utan…",
+        "answers": [
+            {
+                "alternative": "blindtarm",
+                "answer": true
+            },
+            {
+                "alternative": "hjärnbarken",
+                "answer": false
+            },
+            {
+                "alternative": "hälsena",
+                "answer": true
+            },
+            {
+                "alternative": "hela levern",
+                "answer": false
+            },
+            {
+                "alternative": "ena njuren",
+                "answer": true
+            },
+            {
+                "alternative": "båda njurarna",
+                "answer": false
+            },
+            {
+                "alternative": "tunntarm",
+                "answer": false
+            },
+            {
+                "alternative": "mjälte",
+                "answer": true
+            },
+            {
+                "alternative": "hypothalamus",
+                "answer": false
+            },
+            {
+                "alternative": "ena lungan",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "145-2",
+        "series": "2nd",
+        "type": "rank",
+        "question": "Trosuppfattningar efter antal följare (1=flest)",
+        "answers": [
+            {
+                "alternative": "islam",
+                "answer": 2
+            },
+            {
+                "alternative": "kristendom",
+                "answer": 1
+            },
+            {
+                "alternative": "sikhism",
+                "answer": 6
+            },
+            {
+                "alternative": "scientologi",
+                "answer": 10
+            },
+            {
+                "alternative": "rastafari",
+                "answer": 9
+            },
+            {
+                "alternative": "agnosticism/ateism",
+                "answer": 3
+            },
+            {
+                "alternative": "baha’i",
+                "answer": 7
+            },
+            {
+                "alternative": "hinduism",
+                "answer": 4
+            },
+            {
+                "alternative": "buddhism",
+                "answer": 5
+            },
+            {
+                "alternative": "shinto",
+                "answer": 8
+            }
+        ]
+    },
+    {
+        "id": "45-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "TV-serier som J.J. Abrams varit med att ta fram",
+        "answers": [
+            {
+                "alternative": "Felicity",
+                "answer": true
+            },
+            {
+                "alternative": "Stranger Things",
+                "answer": false
+            },
+            {
+                "alternative": "Person of Interest",
+                "answer": true
+            },
+            {
+                "alternative": "CSI",
+                "answer": false
+            },
+            {
+                "alternative": "Alias",
+                "answer": true
+            },
+            {
+                "alternative": "Buffy och vampyrerna",
+                "answer": false
+            },
+            {
+                "alternative": "Westworld",
+                "answer": true
+            },
+            {
+                "alternative": "Vita huset",
+                "answer": false
+            },
+            {
+                "alternative": "Lost",
+                "answer": true
+            },
+            {
+                "alternative": "House of Cards",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "46-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilket land kommer tonsättaren från?",
+        "answers": [
+            {
+                "alternative": "Johann Sebastian Bach",
+                "answer": "Tyskland"
+            },
+            {
+                "alternative": "Leonard Bernstein",
+                "answer": "USA"
+            },
+            {
+                "alternative": "Wolfgang Amadeus Mozart",
+                "answer": "Österrike"
+            },
+            {
+                "alternative": "Claudio Monteverdi",
+                "answer": "Italien"
+            },
+            {
+                "alternative": "Claude Debussy",
+                "answer": "Frankrike"
+            },
+            {
+                "alternative": "Pjotr Tjajkovskij",
+                "answer": "Ryssland"
+            },
+            {
+                "alternative": "Krzysztof Penderecki",
+                "answer": "Polen"
+            },
+            {
+                "alternative": "Johannes Brahms",
+                "answer": "Tyskland"
+            },
+            {
+                "alternative": "Henry Purcell",
+                "answer": "Storbritannien"
+            },
+            {
+                "alternative": "Richard Wagner",
+                "answer": "Tyskland"
+            }
+        ]
+    },
+    {
+        "id": "146-2-2021",
+        "series": "2nd",
+        "type": "rank",
+        "question": "Städer i storleksordning (2021; 1=störst)",
+        "answers": [
+            {
+                "alternative": "Moskva",
+                "answer": 4
+            },
+            {
+                "alternative": "Lima",
+                "answer": 5
+            },
+            {
+                "alternative": "New York",
+                "answer": 10
+            },
+            {
+                "alternative": "Peking",
+                "answer": 1
+            },
+            {
+                "alternative": "Hongkong",
+                "answer": 9
+            },
+            {
+                "alternative": "Istanbul",
+                "answer": 3
+            },
+            {
+                "alternative": "Shenzhen",
+                "answer": 6
+            },
+            {
+                "alternative": "Delhi",
+                "answer": 8
+            },
+            {
+                "alternative": "London",
+                "answer": 7
+            },
+            {
+                "alternative": "Shanghai",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "id": "148-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vems nemesis?",
+        "answers": [
+            {
+                "alternative": "Voldemort",
+                "answer": "Harry Potter"
+            },
+            {
+                "alternative": "Lex Luthor",
+                "answer": "Stålmannen"
+            },
+            {
+                "alternative": "Ra’s al Ghul",
+                "answer": "Läderlappen"
+            },
+            {
+                "alternative": "Prof. Moriarty",
+                "answer": "Sherlock Holmes"
+            },
+            {
+                "alternative": "Vilgax",
+                "answer": "Ben 10"
+            },
+            {
+                "alternative": "Galactus",
+                "answer": "Silver Surfer"
+            },
+            {
+                "alternative": "Kingpin",
+                "answer": "Daredevil"
+            },
+            {
+                "alternative": "Shere Khan",
+                "answer": "Mowgli"
+            },
+            {
+                "alternative": "Norman Osborn",
+                "answer": "Spindelmannen"
+            },
+            {
+                "alternative": "Dormammu",
+                "answer": "Dr Strange"
+            }
+        ]
+    },
+    {
+        "id": "48-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Är ett europeiskt folkslag",
+        "answers": [
+            {
+                "alternative": "goter",
+                "answer": true
+            },
+            {
+                "alternative": "angler",
+                "answer": true
+            },
+            {
+                "alternative": "fenicier",
+                "answer": false
+            },
+            {
+                "alternative": "vandaler",
+                "answer": true
+            },
+            {
+                "alternative": "burgunder",
+                "answer": true
+            },
+            {
+                "alternative": "babylonier",
+                "answer": false
+            },
+            {
+                "alternative": "franker",
+                "answer": true
+            },
+            {
+                "alternative": "huliganer",
+                "answer": false
+            },
+            {
+                "alternative": "uigurer",
+                "answer": false
+            },
+            {
+                "alternative": "saxare",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "147-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Vunnit den svenska Melodifestivalen",
+        "answers": [
+            {
+                "alternative": "Lill-Babs",
+                "answer": true
+            },
+            {
+                "alternative": "Herreys",
+                "answer": true
+            },
+            {
+                "alternative": "Tommy Körberg",
+                "answer": true
+            },
+            {
+                "alternative": "Hasse Andersson",
+                "answer": false
+            },
+            {
+                "alternative": "Forbes",
+                "answer": true
+            },
+            {
+                "alternative": "Kalle Moraeus",
+                "answer": false
+            },
+            {
+                "alternative": "Christer Björkman",
+                "answer": true
+            },
+            {
+                "alternative": "Zara Larsson",
+                "answer": false
+            },
+            {
+                "alternative": "Ingvar Wixell",
+                "answer": true
+            },
+            {
+                "alternative": "Pernilla Wahlgren",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "190-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilken kunglighet är personen gift med?",
+        "answers": [
+            {
+                "alternative": "Meghan Markle",
+                "answer": "Prins Harry"
+            },
+            {
+                "alternative": "Michiko Shōda",
+                "answer": "Kejsaren Akihito"
+            },
+            {
+                "alternative": "Christopher O’Neill",
+                "answer": "Prinsessan Madeleine"
+            },
+            {
+                "alternative": "Letizia Ortiz Rocasolano",
+                "answer": "Kung Felipe VI"
+            },
+            {
+                "alternative": "Máxima Zorreguieta Cerruti",
+                "answer": "Kung Willem-Alexander"
+            },
+            {
+                "alternative": "Charlene Wittstock",
+                "answer": "Furst Albert II"
+            },
+            {
+                "alternative": "Mette-Marit Tjessem Høiby",
+                "answer": "Prins Haakon"
+            },
+            {
+                "alternative": "Sophie Rhys-Jones",
+                "answer": "Prins Edward"
+            },
+            {
+                "alternative": "Mary Elizabeth Donaldson",
+                "answer": "Prins Frederik"
+            },
+            {
+                "alternative": "Sofia Hellqvist",
+                "answer": "Prins Carl Philip"
+            }
+        ]
+    },
+    {
+        "id": "90-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Måne till vilken planet?",
+        "answers": [
+            {
+                "alternative": "Månen",
+                "answer": "Jorden"
+            },
+            {
+                "alternative": "Rhea",
+                "answer": "Saturnus"
+            },
+            {
+                "alternative": "Deimos",
+                "answer": "Mars"
+            },
+            {
+                "alternative": "Titan",
+                "answer": "Saturnus"
+            },
+            {
+                "alternative": "Phobos",
+                "answer": "Mars"
+            },
+            {
+                "alternative": "Ganymedes",
+                "answer": "Jupiter"
+            },
+            {
+                "alternative": "Triton",
+                "answer": "Neptunus"
+            },
+            {
+                "alternative": "Europa",
+                "answer": "Jupiter"
+            },
+            {
+                "alternative": "Titania",
+                "answer": "Uranus"
+            },
+            {
+                "alternative": "Io",
+                "answer": "Jupiter"
+            }
+        ]
+    },
+    {
+        "id": "200-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "I vilken sport används termen?",
+        "answers": [
+            {
+                "alternative": "frame",
+                "answer": "snooker"
+            },
+            {
+                "alternative": "maiden over",
+                "answer": "cricket"
+            },
+            {
+                "alternative": "ruck",
+                "answer": "rugby"
+            },
+            {
+                "alternative": "rogaining",
+                "answer": "orientering"
+            },
+            {
+                "alternative": "bouldering",
+                "answer": "klättring"
+            },
+            {
+                "alternative": "shikkaku",
+                "answer": "karate"
+            },
+            {
+                "alternative": "fallhotande läge",
+                "answer": "brottning"
+            },
+            {
+                "alternative": "ripost",
+                "answer": "fäktning"
+            },
+            {
+                "alternative": "piaff",
+                "answer": "dressyr"
+            },
+            {
+                "alternative": "bicykleta",
+                "answer": "fotboll"
+            }
+        ]
+    },
+    {
+        "id": "100-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Från vilken stad kommer laget?",
+        "answers": [
+            {
+                "alternative": "Brynäs",
+                "answer": "Gävle"
+            },
+            {
+                "alternative": "Millwall",
+                "answer": "London"
+            },
+            {
+                "alternative": "HV71",
+                "answer": "Jönköping"
+            },
+            {
+                "alternative": "AFC Ajax",
+                "answer": "Amsterdam"
+            },
+            {
+                "alternative": "Celtic FC",
+                "answer": "Glasgow"
+            },
+            {
+                "alternative": "FC St. Pauli",
+                "answer": "Hamburg"
+            },
+            {
+                "alternative": "IK Göta",
+                "answer": "Stockholm"
+            },
+            {
+                "alternative": "BK Häcken",
+                "answer": "Göteborg"
+            },
+            {
+                "alternative": "Olympiakos FC",
+                "answer": "Pireus"
+            },
+            {
+                "alternative": "HK Drott",
+                "answer": "Halmstad"
+            }
+        ]
+    },
+    {
+        "id": "99-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilket organ i kroppen?",
+        "answers": [
+            {
+                "alternative": "pumpar runt blodet",
+                "answer": "hjärtat"
+            },
+            {
+                "alternative": "är störst",
+                "answer": "huden"
+            },
+            {
+                "alternative": "är näst störst",
+                "answer": "levern"
+            },
+            {
+                "alternative": "producerar insulin",
+                "answer": "bukspottskörteln"
+            },
+            {
+                "alternative": "utvecklar äggceller",
+                "answer": "äggstock"
+            },
+            {
+                "alternative": "tar upp syre",
+                "answer": "lungor"
+            },
+            {
+                "alternative": "styr centrala nervsystemet",
+                "answer": "hjärnan"
+            },
+            {
+                "alternative": "märks mest bara vid inflammation",
+                "answer": "blindtarmen"
+            },
+            {
+                "alternative": "lagrar utsöndring från njurarna",
+                "answer": "urinblåsan"
+            },
+            {
+                "alternative": "är ca 12 cm lång och bönformad",
+                "answer": "njuren"
+            }
+        ]
+    },
+    {
+        "id": "199-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Hemlandet för denna välkända köksmästare?",
+        "answers": [
+            {
+                "alternative": "Paul Bocuse",
+                "answer": "Frankrike"
+            },
+            {
+                "alternative": "Gordon Ramsay",
+                "answer": "Storbritannien (Skottland)"
+            },
+            {
+                "alternative": "Julia Child",
+                "answer": "USA"
+            },
+            {
+                "alternative": "Anthony Bourdain",
+                "answer": "USA"
+            },
+            {
+                "alternative": "Joël Robuchon",
+                "answer": "Frankrike"
+            },
+            {
+                "alternative": "Alain Ducasse",
+                "answer": "Frankrike/Monaco"
+            },
+            {
+                "alternative": "Heston Blumenthal",
+                "answer": "Storbritannien (England)"
+            },
+            {
+                "alternative": "Ferran Adrià",
+                "answer": "Spanien"
+            },
+            {
+                "alternative": "René Redzepi",
+                "answer": "Danmark"
+            },
+            {
+                "alternative": "Curtis Stone",
+                "answer": "Australien"
+            }
+        ]
+    },
+    {
+        "id": "197-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Svenska sedlar… (giltiga 2021)",
+        "answers": [
+            {
+                "alternative": "avbildad på 20 kr",
+                "answer": "Astrid Lindgren"
+            },
+            {
+                "alternative": "avbildad på 50 kr",
+                "answer": "Evert Taube"
+            },
+            {
+                "alternative": "avbildad på 100 kr",
+                "answer": "Greta Garbo"
+            },
+            {
+                "alternative": "avbildad på 200 kr",
+                "answer": "Ingmar Bergman"
+            },
+            {
+                "alternative": "avbildad på 500 kr",
+                "answer": "Birgit Nilsson"
+            },
+            {
+                "alternative": "avbildad på 1000 kr",
+                "answer": "Dag Hammarskjöld"
+            },
+            {
+                "alternative": "färg på 20 kr",
+                "answer": "blå"
+            },
+            {
+                "alternative": "färg på 500 kr",
+                "answer": "röd"
+            },
+            {
+                "alternative": "färg på 100 kr",
+                "answer": "blå"
+            },
+            {
+                "alternative": "färg på 200 kr",
+                "answer": "grön"
+            }
+        ]
+    },
+    {
+        "id": "97-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Ett av de 10 vanligaste mansnamnen i Sverige? (2020)",
+        "answers": [
+            {
+                "alternative": "Mohammed",
+                "answer": false
+            },
+            {
+                "alternative": "Mikael",
+                "answer": true
+            },
+            {
+                "alternative": "Joakim",
+                "answer": false
+            },
+            {
+                "alternative": "Alexander",
+                "answer": false
+            },
+            {
+                "alternative": "Anders",
+                "answer": true
+            },
+            {
+                "alternative": "Erik",
+                "answer": true
+            },
+            {
+                "alternative": "Lars",
+                "answer": true
+            },
+            {
+                "alternative": "Göran",
+                "answer": false
+            },
+            {
+                "alternative": "Lucas",
+                "answer": false
+            },
+            {
+                "alternative": "Adam",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "192-2",
+        "series": "2nd",
+        "type": "color",
+        "question": "Växtens huvudsakliga färg",
+        "answers": [
+            {
+                "alternative": "tomat",
+                "answer": ["red"]
+            },
+            {
+                "alternative": "aubergine",
+                "answer": ["purple", "black"]
+            },
+            {
+                "alternative": "havtorn (mogen)",
+                "answer": ["yellow", "orange"]
+            },
+            {
+                "alternative": "fullmogen paprika",
+                "answer": ["red"]
+            },
+            {
+                "alternative": "stjärnfrukt (mogen)",
+                "answer": ["yellow"]
+            },
+            {
+                "alternative": "mandelträdets blommor",
+                "answer": ["white"]
+            },
+            {
+                "alternative": "ginsengbär",
+                "answer": ["red"]
+            },
+            {
+                "alternative": "gojibär",
+                "answer": ["red"]
+            },
+            {
+                "alternative": "lavendel",
+                "answer": ["purple"]
+            },
+            {
+                "alternative": "pak choi",
+                "answer": ["green", "white"]
+            }
+        ]
+    },
+    {
+        "id": "92-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Resultatet av ekvationen",
+        "answers": [
+            {
+                "alternative": "4*(-2)-5 =",
+                "answer": "-13"
+            },
+            {
+                "alternative": "1^7 =",
+                "answer": "1"
+            },
+            {
+                "alternative": "5 642 328 / 2 =",
+                "answer": "2 821 164"
+            },
+            {
+                "alternative": "3/5 + 6/5 =",
+                "answer": "1 4/5 (1,8)"
+            },
+            {
+                "alternative": "15 % av $300 =",
+                "answer": "$45"
+            },
+            {
+                "alternative": "5 * 66 =",
+                "answer": "330"
+            },
+            {
+                "alternative": "55555+6666 =",
+                "answer": "62221"
+            },
+            {
+                "alternative": "√4 + 3^2 =",
+                "answer": "11"
+            },
+            {
+                "alternative": "44 är 40 % av",
+                "answer": "110"
+            },
+            {
+                "alternative": "(3^3+1)/2 =",
+                "answer": "14"
+            }
+        ]
+    },
+    {
+        "id": "193-2-2021",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Gjorde över 160 miljarder kronor i vinst 2021",
+        "answers": [
+            {
+                "alternative": "Facebook",
+                "answer": true
+            },
+            {
+                "alternative": "China Construction Bank",
+                "answer": true
+            },
+            {
+                "alternative": "JPMorgan Chase",
+                "answer": true
+            },
+            {
+                "alternative": "ExxonMobil",
+                "answer": false
+            },
+            {
+                "alternative": "Bank of China",
+                "answer": true
+            },
+            {
+                "alternative": "IKEA",
+                "answer": false
+            },
+            {
+                "alternative": "Sony",
+                "answer": false
+            },
+            {
+                "alternative": "Apple",
+                "answer": true
+            },
+            {
+                "alternative": "Alibaba",
+                "answer": true
+            },
+            {
+                "alternative": "Gazprom",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "93-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Har regerat Sverige",
+        "answers": [
+            {
+                "alternative": "Erik Segersäll",
+                "answer": true
+            },
+            {
+                "alternative": "Magnus Ladulås",
+                "answer": true
+            },
+            {
+                "alternative": "Erik den helige",
+                "answer": true
+            },
+            {
+                "alternative": "Sven Tveskägg",
+                "answer": false
+            },
+            {
+                "alternative": "Albrekt av Mecklenburg",
+                "answer": true
+            },
+            {
+                "alternative": "Erik läspe och halte",
+                "answer": true
+            },
+            {
+                "alternative": "Kristian IV",
+                "answer": false
+            },
+            {
+                "alternative": "Gustav V",
+                "answer": true
+            },
+            {
+                "alternative": "Harald V",
+                "answer": false
+            },
+            {
+                "alternative": "Drottning Viktoria",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "194-2",
+        "series": "2nd",
+        "type": "rank",
+        "question": "Rangordning efter antal länder som ingår (1=flest)",
+        "answers": [
+            {
+                "alternative": "EU",
+                "answer": 5
+            },
+            {
+                "alternative": "OSSE",
+                "answer": 2
+            },
+            {
+                "alternative": "Asien",
+                "answer": 3
+            },
+            {
+                "alternative": "NAFTA",
+                "answer": 10
+            },
+            {
+                "alternative": "FN",
+                "answer": 1
+            },
+            {
+                "alternative": "Nordamerika",
+                "answer": 6
+            },
+            {
+                "alternative": "Arabförbundet",
+                "answer": 7
+            },
+            {
+                "alternative": "Oceanien",
+                "answer": 8
+            },
+            {
+                "alternative": "Sydamerika",
+                "answer": 9
+            },
+            {
+                "alternative": "NATO",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "id": "94-2",
+        "series": "2nd",
+        "type": "rank",
+        "question": "Länder i ordning enligt införandet av kvinnlig rösträtt (1=först)",
+        "answers": [
+            {
+                "alternative": "Nederländerna",
+                "answer": 5
+            },
+            {
+                "alternative": "Australien",
+                "answer": 2
+            },
+            {
+                "alternative": "Kuwait",
+                "answer": 10
+            },
+            {
+                "alternative": "Irak",
+                "answer": 8
+            },
+            {
+                "alternative": "Tyskland",
+                "answer": 4
+            },
+            {
+                "alternative": "Frankrike",
+                "answer": 7
+            },
+            {
+                "alternative": "Nya Zeeland",
+                "answer": 1
+            },
+            {
+                "alternative": "Liechtenstein",
+                "answer": 9
+            },
+            {
+                "alternative": "Finland",
+                "answer": 3
+            },
+            {
+                "alternative": "Turkmenistan",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "id": "198-2-2021",
+        "series": "2nd",
+        "type": "number",
+        "question": "Antal…",
+        "answers": [
+            {
+                "alternative": "poäng för att vinna ett set i bordtennis",
+                "answer": 11
+            },
+            {
+                "alternative": "lag i kvartsfinal i en cup",
+                "answer": 8
+            },
+            {
+                "alternative": "grand slam-turneringar i tennis",
+                "answer": 4
+            },
+            {
+                "alternative": "deltävlingar i formel 1-VM (2021)",
+                "answer": 22
+            },
+            {
+                "alternative": "poäng för ett långt kast i basket",
+                "answer": 3
+            },
+            {
+                "alternative": "varv runt banan i ett 5000 m-lopp",
+                "answer": 12.5
+            },
+            {
+                "alternative": "spelare i ett handbollslag",
+                "answer": 7
+            },
+            {
+                "alternative": "domare i fotbollsmatch (elit)",
+                "answer": 4
+            },
+            {
+                "alternative": "kilometer är ett halvmaraton",
+                "answer": 21
+            },
+            {
+                "alternative": "minuter i en halvlek i fotboll",
+                "answer": 45
+            }
+        ]
+    },
+    {
+        "id": "98-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Liga i vilken sport och vilket land?",
+        "answers": [
+            {
+                "alternative": "NBA",
+                "answer": "basket, USA"
+            },
+            {
+                "alternative": "Ligue 1 Conforama",
+                "answer": "fotboll, Frankrike"
+            },
+            {
+                "alternative": "KHL",
+                "answer": "ishockey, Ryssland"
+            },
+            {
+                "alternative": "Tippeligan",
+                "answer": "fotboll, Norge"
+            },
+            {
+                "alternative": "Liga Asobal",
+                "answer": "handboll, Spanien"
+            },
+            {
+                "alternative": "EFL Championship",
+                "answer": "fotboll, England"
+            },
+            {
+                "alternative": "SHL",
+                "answer": "ishockey, Sverige"
+            },
+            {
+                "alternative": "UFC",
+                "answer": "MMA, USA"
+            },
+            {
+                "alternative": "NFL",
+                "answer": "amerikansk fotboll, USA"
+            },
+            {
+                "alternative": "SHL",
+                "answer": "ishockey, Sverige"
+            }
+        ]
+    },
+    {
+        "id": "191-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vad heter detta med ett vetenskaplig begrepp?",
+        "answers": [
+            {
+                "alternative": "en grundsats eller självklar sanning",
+                "answer": "axiom"
+            },
+            {
+                "alternative": "halvklot",
+                "answer": "hemisfär"
+            },
+            {
+                "alternative": "moln av gaser och partiklar i rymden",
+                "answer": "nebulosa"
+            },
+            {
+                "alternative": "variant av ett grundämne",
+                "answer": "isotop"
+            },
+            {
+                "alternative": "samband",
+                "answer": "korrelation"
+            },
+            {
+                "alternative": "kunskap grundad på erfarenhet",
+                "answer": "empiri"
+            },
+            {
+                "alternative": "antagande som kan prövas",
+                "answer": "hypotes"
+            },
+            {
+                "alternative": "orsakssamband",
+                "answer": "kausilitet"
+            },
+            {
+                "alternative": "tillförlitlighet hos en mätning",
+                "answer": "reliabilitet"
+            },
+            {
+                "alternative": "en föränderlig enhet man studerar",
+                "answer": "variabel"
+            }
+        ]
+    },
+    {
+        "id": "91-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilket instrument spelar artisten?",
+        "answers": [
+            {
+                "alternative": "Ritchie Blackmore",
+                "answer": "gitarr"
+            },
+            {
+                "alternative": "Dizzy Gillespie",
+                "answer": "trumpet"
+            },
+            {
+                "alternative": "Tori Amos",
+                "answer": "piano"
+            },
+            {
+                "alternative": "Phil Lynott",
+                "answer": "bas"
+            },
+            {
+                "alternative": "Fats Domino",
+                "answer": "piano"
+            },
+            {
+                "alternative": "Robert Johson",
+                "answer": "gitarr"
+            },
+            {
+                "alternative": "Nils Landgren",
+                "answer": "trombon"
+            },
+            {
+                "alternative": "Putte Wickman",
+                "answer": "klarinett"
+            },
+            {
+                "alternative": "Yngve Malmsteen",
+                "answer": "gitarr"
+            },
+            {
+                "alternative": "Ringo Starr",
+                "answer": "trummor"
+            }
+        ]
+    },
+    {
+        "id": "89-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Hur många timmar +/- från Sveriges tidszon i februari?",
+        "answers": [
+            {
+                "alternative": "Finland",
+                "answer": "+1"
+            },
+            {
+                "alternative": "England",
+                "answer": "-1"
+            },
+            {
+                "alternative": "Frankrike",
+                "answer": "0"
+            },
+            {
+                "alternative": "New York",
+                "answer": "-6"
+            },
+            {
+                "alternative": "Sydafrika",
+                "answer": "+1"
+            },
+            {
+                "alternative": "Japan",
+                "answer": "+8"
+            },
+            {
+                "alternative": "Kalifornien",
+                "answer": "-9"
+            },
+            {
+                "alternative": "Moskva",
+                "answer": "+2"
+            },
+            {
+                "alternative": "Portugal",
+                "answer": "-1"
+            },
+            {
+                "alternative": "Peking",
+                "answer": "+7"
+            }
+        ]
+    },
+    {
+        "id": "189-2-2021",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Ett av Sveriges 10 största företag 2021 (baserat på omsättning)",
+        "answers": [
+            {
+                "alternative": "Handelsbanken",
+                "answer": false
+            },
+            {
+                "alternative": "H&M",
+                "answer": true
+            },
+            {
+                "alternative": "Vattenfall",
+                "answer": true
+            },
+            {
+                "alternative": "SSAB",
+                "answer": false
+            },
+            {
+                "alternative": "Securitas",
+                "answer": false
+            },
+            {
+                "alternative": "Electrolux",
+                "answer": true
+            },
+            {
+                "alternative": "Volvo",
+                "answer": true
+            },
+            {
+                "alternative": "Nordea",
+                "answer": false
+            },
+            {
+                "alternative": "NCC",
+                "answer": false
+            },
+            {
+                "alternative": "Ericsson",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "47-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Arkitekter",
+        "answers": [
+            {
+                "alternative": "Ferdinand Boberg",
+                "answer": true
+            },
+            {
+                "alternative": "Prins Eugen",
+                "answer": false
+            },
+            {
+                "alternative": "Gunnar Asplund",
+                "answer": true
+            },
+            {
+                "alternative": "Alvar Aalto",
+                "answer": true
+            },
+            {
+                "alternative": "Albert Engström",
+                "answer": false
+            },
+            {
+                "alternative": "Bjarke Ingels",
+                "answer": true
+            },
+            {
+                "alternative": "Ivar Kreuger",
+                "answer": false
+            },
+            {
+                "alternative": "Gert Wingårdh",
+                "answer": true
+            },
+            {
+                "alternative": "Friedensreich Hundertwasser",
+                "answer": true
+            },
+            {
+                "alternative": "Carl Milles",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "187-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Varifrån kommer ölmärket?",
+        "answers": [
+            {
+                "alternative": "Sol",
+                "answer": "Mexiko"
+            },
+            {
+                "alternative": "Coors",
+                "answer": "USA"
+            },
+            {
+                "alternative": "Budweiser",
+                "answer": "USA"
+            },
+            {
+                "alternative": "Kronenbourg 1664",
+                "answer": "Frankrike"
+            },
+            {
+                "alternative": "Heineken",
+                "answer": "Nederländerna"
+            },
+            {
+                "alternative": "Beck’s",
+                "answer": "Tyskland"
+            },
+            {
+                "alternative": "Stella Artois",
+                "answer": "Belgien"
+            },
+            {
+                "alternative": "Pilsner Urquell",
+                "answer": "Tjeckien"
+            },
+            {
+                "alternative": "Resch’s",
+                "answer": "Australien"
+            },
+            {
+                "alternative": "Carlsberg",
+                "answer": "Danmark"
+            }
+        ]
+    },
+    {
+        "id": "87-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Kopplat till vilken religion?",
+        "answers": [
+            {
+                "alternative": "klagomuren",
+                "answer": "judendom"
+            },
+            {
+                "alternative": "nirvana",
+                "answer": "buddhism"
+            },
+            {
+                "alternative": "mulla",
+                "answer": "islam"
+            },
+            {
+                "alternative": "lama",
+                "answer": "(tibetansk) buddhism"
+            },
+            {
+                "alternative": "oblat",
+                "answer": "kristendom"
+            },
+            {
+                "alternative": "Lao Zi",
+                "answer": "daoism"
+            },
+            {
+                "alternative": "hadith",
+                "answer": "islam"
+            },
+            {
+                "alternative": "INRI",
+                "answer": "kristendom"
+            },
+            {
+                "alternative": "Siddharta",
+                "answer": "buddhism"
+            },
+            {
+                "alternative": "dharmacakra",
+                "answer": "buddhism"
+            }
+        ]
+    },
+    {
+        "id": "88-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilken sport är personen känd för?",
+        "answers": [
+            {
+                "alternative": "Lars Frölander",
+                "answer": "simning"
+            },
+            {
+                "alternative": "Susanna Kallur",
+                "answer": "häcklöpning"
+            },
+            {
+                "alternative": "Ylva Novén",
+                "answer": "utförsåkning"
+            },
+            {
+                "alternative": "Hanna Ljungberg",
+                "answer": "fotboll"
+            },
+            {
+                "alternative": "Erik Hajas",
+                "answer": "handboll"
+            },
+            {
+                "alternative": "Annichen Kringstad",
+                "answer": "orientering"
+            },
+            {
+                "alternative": "Rolf-Göran Bengtsson",
+                "answer": "ridsport"
+            },
+            {
+                "alternative": "Jonas Jerebko",
+                "answer": "basket"
+            },
+            {
+                "alternative": "Ida-Theres Nerell",
+                "answer": "brottning"
+            },
+            {
+                "alternative": "Pelle Lindberg",
+                "answer": "ishockey"
+            }
+        ]
+    },
+    {
+        "id": "188-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilken himlakropp står symbolen för?",
+        "answers": [
+            {
+                "alternativeUrl": "/questions/188-2/sun.svg",
+                "answer": "Solen"
+            },
+            {
+                "alternativeUrl": "/questions/188-2/moon.svg",
+                "answer": "Månen"
+            },
+            {
+                "alternativeUrl": "/questions/188-2/mercury.svg",
+                "answer": "Merkurius"
+            },
+            {
+                "alternativeUrl": "/questions/188-2/venus.svg",
+                "answer": "Venus"
+            },
+            {
+                "alternativeUrl": "/questions/188-2/mars.svg",
+                "answer": "Mars"
+            },
+            {
+                "alternativeUrl": "/questions/188-2/jupiter.svg",
+                "answer": "Jupiter"
+            },
+            {
+                "alternativeUrl": "/questions/188-2/earth.svg",
+                "answer": "Jorden"
+            },
+            {
+                "alternativeUrl": "/questions/188-2/saturn.svg",
+                "answer": "Saturnus"
+            },
+            {
+                "alternativeUrl": "/questions/188-2/uranus.svg",
+                "answer": "Uranus"
+            },
+            {
+                "alternativeUrl": "/questions/188-2/neptune.svg",
+                "answer": "Neptunus"
+            }
+        ]
+    },
+    {
+        "id": "186-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilket rike är följande person förknippad med?",
+        "answers": [
+            {
+                "alternative": "Hannibal",
+                "answer": "Kartago"
+            },
+            {
+                "alternative": "Hammurabi",
+                "answer": "Babylon"
+            },
+            {
+                "alternative": "Platon",
+                "answer": "Aten"
+            },
+            {
+                "alternative": "Nebukadnessar",
+                "answer": "Babylon"
+            },
+            {
+                "alternative": "Djingis Khan",
+                "answer": "Mongoliet"
+            },
+            {
+                "alternative": "Hatshepsut",
+                "answer": "Egypten"
+            },
+            {
+                "alternative": "Alexander den Store",
+                "answer": "Makedonien"
+            },
+            {
+                "alternative": "Charlemagne",
+                "answer": "Frankerriket"
+            },
+            {
+                "alternative": "Hadrianus",
+                "answer": "Rom"
+            },
+            {
+                "alternative": "Harald Blåtand",
+                "answer": "Danmark"
+            }
+        ]
+    },
+    {
+        "id": "86-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilket Nobelpris?",
+        "answers": [
+            {
+                "alternative": "Theodore Roosevelt",
+                "answer": "fred"
+            },
+            {
+                "alternative": "William Butler Yates",
+                "answer": "litteratur"
+            },
+            {
+                "alternative": "Bengt Holmström",
+                "answer": "ekonomiska vetenskaper"
+            },
+            {
+                "alternative": "Tomas Tranströmer",
+                "answer": "litteratur"
+            },
+            {
+                "alternative": "Liu Xiaobo",
+                "answer": "fred"
+            },
+            {
+                "alternative": "Paul Nurse",
+                "answer": "fysiologi eller medicin"
+            },
+            {
+                "alternative": "Enrico Fermi",
+                "answer": "fysik"
+            },
+            {
+                "alternative": "Dario Fo",
+                "answer": "litteratur"
+            },
+            {
+                "alternative": "Shuji Nakamura",
+                "answer": "fysik"
+            },
+            {
+                "alternative": "Milton Friedman",
+                "answer": "ekonomiska vetenskaper"
+            }
+        ]
+    },
+    {
+        "id": "185-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Flod, öken eller berg?",
+        "answers": [
+            {
+                "alternative": "Gibson",
+                "answer": "öken"
+            },
+            {
+                "alternative": "Gobi",
+                "answer": "öken"
+            },
+            {
+                "alternative": "Don",
+                "answer": "flod"
+            },
+            {
+                "alternative": "Aconcagua",
+                "answer": "berg"
+            },
+            {
+                "alternative": "Kilimanjaro",
+                "answer": "berg"
+            },
+            {
+                "alternative": "Huang He",
+                "answer": "flod"
+            },
+            {
+                "alternative": "K2",
+                "answer": "berg"
+            },
+            {
+                "alternative": "Elbrus",
+                "answer": "berg"
+            },
+            {
+                "alternative": "Seine",
+                "answer": "flod"
+            },
+            {
+                "alternative": "Kalahari",
+                "answer": "öken"
+            }
+        ]
+    },
+    {
+        "id": "85-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Är ett programmeringsspråk",
+        "answers": [
+            {
+                "alternative": "Cobol",
+                "answer": true
+            },
+            {
+                "alternative": "C",
+                "answer": true
+            },
+            {
+                "alternative": "Java",
+                "answer": true
+            },
+            {
+                "alternative": "PreScript",
+                "answer": false
+            },
+            {
+                "alternative": "Nook",
+                "answer": false
+            },
+            {
+                "alternative": "Perl",
+                "answer": true
+            },
+            {
+                "alternative": "Up-PL",
+                "answer": false
+            },
+            {
+                "alternative": "Latin",
+                "answer": false
+            },
+            {
+                "alternative": "Courtial",
+                "answer": false
+            },
+            {
+                "alternative": "Ruby",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "184-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilket land är speciellt känt för sin…",
+        "answers": [
+            {
+                "alternative": "s’more",
+                "answer": "USA/Kanada"
+            },
+            {
+                "alternative": "ceviche de pescado",
+                "answer": "Peru"
+            },
+            {
+                "alternative": "crema catalana",
+                "answer": "Spanien"
+            },
+            {
+                "alternative": "naan",
+                "answer": "Indien"
+            },
+            {
+                "alternative": "moussaka",
+                "answer": "Grekland"
+            },
+            {
+                "alternative": "phở",
+                "answer": "Vietnam"
+            },
+            {
+                "alternative": "injera",
+                "answer": "Etiopien"
+            },
+            {
+                "alternative": "moules frites",
+                "answer": "Belgien"
+            },
+            {
+                "alternative": "zaalouk",
+                "answer": "Marocko"
+            },
+            {
+                "alternative": "chelo kabab",
+                "answer": "Iran"
+            }
+        ]
+    },
+    {
+        "id": "84-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Från vilket land kommer företaget?",
+        "answers": [
+            {
+                "alternative": "Tata",
+                "answer": "Indien"
+            },
+            {
+                "alternative": "Puma",
+                "answer": "Tyskland"
+            },
+            {
+                "alternative": "Samsung",
+                "answer": "Sydkorea"
+            },
+            {
+                "alternative": "Lacoste",
+                "answer": "Frankrike"
+            },
+            {
+                "alternative": "Hyundai",
+                "answer": "Sydkorea"
+            },
+            {
+                "alternative": "Abercrombie and Fitch",
+                "answer": "USA"
+            },
+            {
+                "alternative": "Adidas",
+                "answer": "Tyskland"
+            },
+            {
+                "alternative": "Philips",
+                "answer": "Nederländerna"
+            },
+            {
+                "alternative": "Asus",
+                "answer": "Taiwan"
+            },
+            {
+                "alternative": "Speedo",
+                "answer": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "183-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilken måttenhet förkortas så här…",
+        "answers": [
+            {
+                "alternative": "hk",
+                "answer": "hästkraft"
+            },
+            {
+                "alternative": "J",
+                "answer": "joule"
+            },
+            {
+                "alternative": "km²",
+                "answer": "kvadratkilometer"
+            },
+            {
+                "alternative": "cal",
+                "answer": "kalori"
+            },
+            {
+                "alternative": "MHz",
+                "answer": "megahertz"
+            },
+            {
+                "alternative": "N",
+                "answer": "newton"
+            },
+            {
+                "alternative": "t",
+                "answer": "ton"
+            },
+            {
+                "alternative": "W",
+                "answer": "watt"
+            },
+            {
+                "alternative": "Ω",
+                "answer": "ohm"
+            },
+            {
+                "alternative": "msk",
+                "answer": "matsked"
+            }
+        ]
+    },
+    {
+        "id": "83-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Pungdjur, kattdjur eller fantasidjur?",
+        "answers": [
+            {
+                "alternative": "kraken",
+                "answer": "fantasidjur"
+            },
+            {
+                "alternative": "serval",
+                "answer": "kattdjur"
+            },
+            {
+                "alternative": "opossum",
+                "answer": "pungdjur"
+            },
+            {
+                "alternative": "tasmansk djävul",
+                "answer": "pungdjur"
+            },
+            {
+                "alternative": "skvader",
+                "answer": "fantasidjur"
+            },
+            {
+                "alternative": "lo",
+                "answer": "kattdjur"
+            },
+            {
+                "alternative": "känguru",
+                "answer": "pungdjur"
+            },
+            {
+                "alternative": "puma",
+                "answer": "kattdjur"
+            },
+            {
+                "alternative": "marsupilami",
+                "answer": "fantasidjur"
+            },
+            {
+                "alternative": "kodkod",
+                "answer": "kattdjur"
+            }
+        ]
+    },
+    {
+        "id": "182-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Republik, monarki eller teokrati?",
+        "answers": [
+            {
+                "alternative": "Spanien",
+                "answer": "monarki"
+            },
+            {
+                "alternative": "USA",
+                "answer": "republik"
+            },
+            {
+                "alternative": "Nordkorea",
+                "answer": "republik"
+            },
+            {
+                "alternative": "Saudiarabien",
+                "answer": "monarki"
+            },
+            {
+                "alternative": "Belgien",
+                "answer": "monarki"
+            },
+            {
+                "alternative": "Österrike",
+                "answer": "republik"
+            },
+            {
+                "alternative": "Australien",
+                "answer": "monarki"
+            },
+            {
+                "alternative": "Sydafrika",
+                "answer": "republik"
+            },
+            {
+                "alternative": "Vatikanstaten",
+                "answer": "teokrati"
+            },
+            {
+                "alternative": "Japan",
+                "answer": "monarki"
+            }
+        ]
+    },
+    {
+        "id": "82-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vad mäts med denna måttenhet?",
+        "answers": [
+            {
+                "alternative": "mach",
+                "answer": "hastighet (för flyg)"
+            },
+            {
+                "alternative": "kelvin",
+                "answer": "temperatur"
+            },
+            {
+                "alternative": "decibel",
+                "answer": "ljudstyrka"
+            },
+            {
+                "alternative": "pascal",
+                "answer": "tryck"
+            },
+            {
+                "alternative": "volt",
+                "answer": "elektrisk spänning"
+            },
+            {
+                "alternative": "celsius",
+                "answer": "temperatur"
+            },
+            {
+                "alternative": "candela",
+                "answer": "ljusstyrka"
+            },
+            {
+                "alternative": "bar",
+                "answer": "(luft) tryck"
+            },
+            {
+                "alternative": "lux",
+                "answer": "illuminans / belysningsstyrka"
+            },
+            {
+                "alternative": "fahrenheit",
+                "answer": "temperatur"
+            }
+        ]
+    },
+    {
+        "id": "181-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Filmer med Tom Cruise",
+        "answers": [
+            {
+                "alternative": "Elysium",
+                "answer": false
+            },
+            {
+                "alternative": "Cocktail",
+                "answer": true
+            },
+            {
+                "alternative": "Days of Thunder",
+                "answer": true
+            },
+            {
+                "alternative": "Enemy of the State",
+                "answer": false
+            },
+            {
+                "alternative": "Jerry Maguire",
+                "answer": true
+            },
+            {
+                "alternative": "Mission: Impossible",
+                "answer": true
+            },
+            {
+                "alternative": "Argo",
+                "answer": false
+            },
+            {
+                "alternative": "Blood Diamond",
+                "answer": false
+            },
+            {
+                "alternative": "Legenden – mörkrets härskare",
+                "answer": true
+            },
+            {
+                "alternative": "A Love Song for Bobby Long",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "81-2",
+        "series": "2nd",
+        "type": "number",
+        "question": "Vilken siffra fattas i bandnamnet?",
+        "answers": [
+            {
+                "alternative": "M",
+                "answer": 83
+            },
+            {
+                "alternative": "Cent",
+                "answer": 50
+            },
+            {
+                "alternative": "U",
+                "answer": 2
+            },
+            {
+                "alternative": "East",
+                "answer": 17
+            },
+            {
+                "alternative": "Doors Down",
+                "answer": 3
+            },
+            {
+                "alternative": "Non Blondes",
+                "answer": 4
+            },
+            {
+                "alternative": "Seconds of Summer",
+                "answer": 5
+            },
+            {
+                "alternative": "Blink",
+                "answer": 182
+            },
+            {
+                "alternative": "Level",
+                "answer": 42
+            },
+            {
+                "alternative": "Maroon",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "id": "180-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Vanliga råvaror vid framställning av spritdrycker",
+        "answers": [
+            {
+                "alternative": "humle",
+                "answer": true
+            },
+            {
+                "alternative": "malt",
+                "answer": true
+            },
+            {
+                "alternative": "agave",
+                "answer": true
+            },
+            {
+                "alternative": "aubergine",
+                "answer": false
+            },
+            {
+                "alternative": "jordärtskocka",
+                "answer": false
+            },
+            {
+                "alternative": "majs",
+                "answer": true
+            },
+            {
+                "alternative": "tranbär",
+                "answer": false
+            },
+            {
+                "alternative": "potatis",
+                "answer": true
+            },
+            {
+                "alternative": "enbär",
+                "answer": true
+            },
+            {
+                "alternative": "äpple",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "80-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Har varit utrikesminister i Sverige",
+        "answers": [
+            {
+                "alternative": "Laila Freivalds",
+                "answer": true
+            },
+            {
+                "alternative": "Hans Blix",
+                "answer": true
+            },
+            {
+                "alternative": "Thage G. Peterson",
+                "answer": false
+            },
+            {
+                "alternative": "Carl Bildt",
+                "answer": true
+            },
+            {
+                "alternative": "Göran Persson",
+                "answer": false
+            },
+            {
+                "alternative": "Östen Undén",
+                "answer": true
+            },
+            {
+                "alternative": "Gudrun Schyman",
+                "answer": false
+            },
+            {
+                "alternative": "Sten Andersson",
+                "answer": true
+            },
+            {
+                "alternative": "Rolf Ekéus",
+                "answer": false
+            },
+            {
+                "alternative": "Tomas Bodström",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "179-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilket land är känd för sin…",
+        "answers": [
+            {
+                "alternative": "sake",
+                "answer": "Japan"
+            },
+            {
+                "alternative": "tokajer",
+                "answer": "Ungern"
+            },
+            {
+                "alternative": "lassi",
+                "answer": "Indien / Pakistan"
+            },
+            {
+                "alternative": "champagne",
+                "answer": "Frankrike"
+            },
+            {
+                "alternative": "mescal",
+                "answer": "Mexiko"
+            },
+            {
+                "alternative": "baijiu",
+                "answer": "Kina"
+            },
+            {
+                "alternative": "cachaça",
+                "answer": "Brasilien"
+            },
+            {
+                "alternative": "soju",
+                "answer": "(Syd)korea"
+            },
+            {
+                "alternative": "raki",
+                "answer": "Turkiet"
+            },
+            {
+                "alternative": "pastis",
+                "answer": "Frankrike"
+            }
+        ]
+    },
+    {
+        "id": "79-2",
+        "series": "2nd",
+        "type": "period",
+        "question": "Då föddes… (århundradet)",
+        "answers": [
+            {
+                "alternative": "Martin Luther",
+                "answer": "1400-talet"
+            },
+            {
+                "alternative": "Napoleon I",
+                "answer": "1700-talet"
+            },
+            {
+                "alternative": "Albert Einstein",
+                "answer": "1800-talet"
+            },
+            {
+                "alternative": "George Washington",
+                "answer": "1700-talet"
+            },
+            {
+                "alternative": "Alfred Hitchcock",
+                "answer": "1800-talet"
+            },
+            {
+                "alternative": "Carl von Linné",
+                "answer": "1700-talet"
+            },
+            {
+                "alternative": "Olaus Petri",
+                "answer": "1400-talet"
+            },
+            {
+                "alternative": "Elon Musk",
+                "answer": "1900-talet"
+            },
+            {
+                "alternative": "Isaac Newton",
+                "answer": "1600-talet"
+            },
+            {
+                "alternative": "Christofer Columbus",
+                "answer": "1400-talet"
+            }
+        ]
+    },
+    {
+        "id": "178-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilket djur är…",
+        "answers": [
+            {
+                "alternative": "snabbast på land",
+                "answer": "gepard"
+            },
+            {
+                "alternative": "tyngst på land",
+                "answer": "afrikansk elefant"
+            },
+            {
+                "alternative": "störst",
+                "answer": "blåval"
+            },
+            {
+                "alternative": "högsta landdjuret",
+                "answer": "giraff"
+            },
+            {
+                "alternative": "största gnagaren",
+                "answer": "kapybara / vattensvin"
+            },
+            {
+                "alternative": "längsta ormen",
+                "answer": "nätpyton"
+            },
+            {
+                "alternative": "största fågeln",
+                "answer": "struts"
+            },
+            {
+                "alternative": "däggdjuret som väger minst",
+                "answer": "flimmernäbbmus"
+            },
+            {
+                "alternative": "minsta fågeln",
+                "answer": "bikolibri"
+            },
+            {
+                "alternative": "största kräldjuret",
+                "answer": "deltakrokodil"
+            }
+        ]
+    },
+    {
+        "id": "78-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Känd duo från vilken film?",
+        "answers": [
+            {
+                "alternative": "Katniss och Peeta",
+                "answer": "The Hunger Games"
+            },
+            {
+                "alternative": "Sally och Harry",
+                "answer": "När Harry träffade Sally"
+            },
+            {
+                "alternative": "Lloyd Christmas och Harry Dunne",
+                "answer": "Dum & dummare"
+            },
+            {
+                "alternative": "Baby och Johnny",
+                "answer": "Dirty Dancing"
+            },
+            {
+                "alternative": "Rose DeWitt Bukater och Jack Dawson",
+                "answer": "Titanic"
+            },
+            {
+                "alternative": "Woody och Buzz Lightyear",
+                "answer": "Toy Story"
+            },
+            {
+                "alternative": "Danny och Sandy",
+                "answer": "Grease"
+            },
+            {
+                "alternative": "Timon och Pumba",
+                "answer": "Lejonkungen"
+            },
+            {
+                "alternative": "Jules Winnfield och Vincent Vega",
+                "answer": "Pulp Fiction"
+            },
+            {
+                "alternative": "Martin Riggs och Roger Murtaugh",
+                "answer": "Dödligt vapen"
+            }
+        ]
+    },
+    {
+        "id": "177-2-2021",
+        "series": "2nd",
+        "type": "number",
+        "question": "Antal…",
+        "answers": [
+            {
+                "alternative": "0 grader Celsius i Fahrenheit",
+                "answer": 32
+            },
+            {
+                "alternative": "nationella språk i Schweiz",
+                "answer": 4
+            },
+            {
+                "alternative": "kardinalsynder",
+                "answer": 7
+            },
+            {
+                "alternative": "länder IKEA finns i (2021)",
+                "answer": 50
+            },
+            {
+                "alternative": "Snövits dvärgvänner",
+                "answer": 7
+            },
+            {
+                "alternative": "platser i USA:s senat",
+                "answer": 100
+            },
+            {
+                "alternative": "kretsar i helvetet enligt Dante",
+                "answer": 9
+            },
+            {
+                "alternative": "tavlor i Rorschach-testet",
+                "answer": 10
+            },
+            {
+                "alternative": "mål för hattrick",
+                "answer": 3
+            },
+            {
+                "alternative": "Sveriges vinster i Eurovision (–2021)",
+                "answer": 6
+            }
+        ]
+    },
+    {
+        "id": "77-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Landets huvudstad?",
+        "answers": [
+            {
+                "alternative": "Schweiz",
+                "answer": "Bern"
+            },
+            {
+                "alternative": "Kanada",
+                "answer": "Ottawa"
+            },
+            {
+                "alternative": "Libanon",
+                "answer": "Beirut"
+            },
+            {
+                "alternative": "Marocko",
+                "answer": "Rabat"
+            },
+            {
+                "alternative": "Lettland",
+                "answer": "Riga"
+            },
+            {
+                "alternative": "Portugal",
+                "answer": "Lissabon"
+            },
+            {
+                "alternative": "Peru",
+                "answer": "Lima"
+            },
+            {
+                "alternative": "Filippinerna",
+                "answer": "Manila"
+            },
+            {
+                "alternative": "Bahamas",
+                "answer": "Nassau"
+            },
+            {
+                "alternative": "Burkina Faso",
+                "answer": "Ouagadougou"
+            }
+        ]
+    },
+    {
+        "id": "176-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilken skådespelare har den kvinnliga huvudrollen?",
+        "answers": [
+            {
+                "alternative": "Wonder Woman",
+                "answer": "Gal Gadot"
+            },
+            {
+                "alternative": "Pirates of the Caribbean",
+                "answer": "Keira Knightley"
+            },
+            {
+                "alternative": "Runaway Bride",
+                "answer": "Julia Robert"
+            },
+            {
+                "alternative": "Gravity",
+                "answer": "Sandra Bullock"
+            },
+            {
+                "alternative": "Moulin Rouge!",
+                "answer": "Nicole Kidman"
+            },
+            {
+                "alternative": "Dancer in the Dark",
+                "answer": "Björk"
+            },
+            {
+                "alternative": "När lammen tystnar",
+                "answer": "Jodie Foster"
+            },
+            {
+                "alternative": "Farlig förbindelse",
+                "answer": "Glenn Close"
+            },
+            {
+                "alternative": "Vem är rädd för Virginia Wolf?",
+                "answer": "Elizabeth Taylor"
+            },
+            {
+                "alternative": "Elizabeth",
+                "answer": "Cate Blanchett"
+            }
+        ]
+    },
+    {
+        "id": "76-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vem har skrivit denna svenska deckare?",
+        "answers": [
+            {
+                "alternative": "Flickan som lekte med elden",
+                "answer": "Stieg Larsson"
+            },
+            {
+                "alternative": "Det som inte dödar oss",
+                "answer": "David Lagercrantz"
+            },
+            {
+                "alternative": "Sprängaren",
+                "answer": "Liza Marklund"
+            },
+            {
+                "alternative": "Mannen på balkongen",
+                "answer": "Sjöwall & Wahlöö"
+            },
+            {
+                "alternative": "Solstorm",
+                "answer": "Åsa Larsson"
+            },
+            {
+                "alternative": "Stenhuggaren",
+                "answer": "Camilla Läckberg"
+            },
+            {
+                "alternative": "Snabba cash",
+                "answer": "Jens Lapidus"
+            },
+            {
+                "alternative": "Kommisarien och tystnaden",
+                "answer": "Håkan Nesser"
+            },
+            {
+                "alternative": "Hundarna i Riga",
+                "answer": "Henning Mankell"
+            },
+            {
+                "alternative": "Profitörerna",
+                "answer": "Leif G.W. Persson"
+            }
+        ]
+    },
+    {
+        "id": "175-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Är en hundras",
+        "answers": [
+            {
+                "alternative": "belgisk vallhund",
+                "answer": true
+            },
+            {
+                "alternative": "vargboxer",
+                "answer": false
+            },
+            {
+                "alternative": "norsk-dansk vakthund",
+                "answer": false
+            },
+            {
+                "alternative": "kooikerhondje",
+                "answer": true
+            },
+            {
+                "alternative": "spinone",
+                "answer": true
+            },
+            {
+                "alternative": "cane collina",
+                "answer": false
+            },
+            {
+                "alternative": "kromfohrländer",
+                "answer": true
+            },
+            {
+                "alternative": "löwchen",
+                "answer": true
+            },
+            {
+                "alternative": "eurasier",
+                "answer": true
+            },
+            {
+                "alternative": "mutti",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "75-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "I vilken av de sju världsdelarna ligger…",
+        "answers": [
+            {
+                "alternative": "Bhutan",
+                "answer": "Asien"
+            },
+            {
+                "alternative": "Marocko",
+                "answer": "Afrika"
+            },
+            {
+                "alternative": "Djibouti",
+                "answer": "Afrika"
+            },
+            {
+                "alternative": "Colombia",
+                "answer": "Sydamerika"
+            },
+            {
+                "alternative": "Salomonöarna",
+                "answer": "Oceanien"
+            },
+            {
+                "alternative": "Mexiko",
+                "answer": "Nordamerika"
+            },
+            {
+                "alternative": "Guyana",
+                "answer": "Sydamerika"
+            },
+            {
+                "alternative": "Laos",
+                "answer": "Asien"
+            },
+            {
+                "alternative": "Benin",
+                "answer": "Afrika"
+            },
+            {
+                "alternative": "Surinam",
+                "answer": "Sydamerika"
+            }
+        ]
+    },
+    {
+        "id": "174-2",
+        "series": "2nd",
+        "type": "rank",
+        "question": "Rangordna distansen mellan orterna (fågelväg; 1=längst)",
+        "answers": [
+            {
+                "alternative": "Stockholm – Kairo",
+                "answer": 5
+            },
+            {
+                "alternative": "Stockholm – Peking",
+                "answer": 2
+            },
+            {
+                "alternative": "New York – Los Angeles",
+                "answer": 4
+            },
+            {
+                "alternative": "Helsingfors – Stockholm",
+                "answer": 10
+            },
+            {
+                "alternative": "Kairo – Kapstaden",
+                "answer": 1
+            },
+            {
+                "alternative": "Trelleborg – Kiruna",
+                "answer": 6
+            },
+            {
+                "alternative": "Trelleborg – Nice",
+                "answer": 7
+            },
+            {
+                "alternative": "Köpenhamn – Stockholm",
+                "answer": 8
+            },
+            {
+                "alternative": "Oslo – Stockholm",
+                "answer": 9
+            },
+            {
+                "alternative": "Stockholm – New York",
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "id": "74-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vad betyder musiktermen?",
+        "answers": [
+            {
+                "alternative": "andante",
+                "answer": "lugnt"
+            },
+            {
+                "alternative": "amoroso",
+                "answer": "kärleksfullt"
+            },
+            {
+                "alternative": "mosso",
+                "answer": "rörligt"
+            },
+            {
+                "alternative": "diminuendo",
+                "answer": "avtagande i styrka"
+            },
+            {
+                "alternative": "espressivo",
+                "answer": "uttrycksfullt"
+            },
+            {
+                "alternative": "fursioso",
+                "answer": "rasande"
+            },
+            {
+                "alternative": "mezzo",
+                "answer": "halv"
+            },
+            {
+                "alternative": "lunga",
+                "answer": "paus alt. lös sträng"
+            },
+            {
+                "alternative": "lamentando",
+                "answer": "klagande"
+            },
+            {
+                "alternative": "maestoso",
+                "answer": "majestätiskt"
+            }
+        ]
+    },
+    {
+        "id": "171-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Är giftig",
+        "answers": [
+            {
+                "alternative": "belladonna",
+                "answer": true
+            },
+            {
+                "alternative": "liljekonvalj",
+                "answer": true
+            },
+            {
+                "alternative": "idegran",
+                "answer": true
+            },
+            {
+                "alternative": "syren",
+                "answer": false
+            },
+            {
+                "alternative": "gullregn",
+                "answer": true
+            },
+            {
+                "alternative": "jätteloka",
+                "answer": true
+            },
+            {
+                "alternative": "pelargon",
+                "answer": false
+            },
+            {
+                "alternative": "porslinsblomma",
+                "answer": false
+            },
+            {
+                "alternative": "tusensköna",
+                "answer": false
+            },
+            {
+                "alternative": "benjaminfikus",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "71-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilket land kommer artisten eller gruppen från?",
+        "answers": [
+            {
+                "alternative": "Dua Lipa",
+                "answer": "Storbritannien (England)"
+            },
+            {
+                "alternative": "Drake",
+                "answer": "Kanada"
+            },
+            {
+                "alternative": "J Balvin",
+                "answer": "Colombia"
+            },
+            {
+                "alternative": "David Guetta",
+                "answer": "Frankrike"
+            },
+            {
+                "alternative": "Marcus & Martinus",
+                "answer": "Norge"
+            },
+            {
+                "alternative": "Rihanna",
+                "answer": "Barbados"
+            },
+            {
+                "alternative": "Imagine Dragons",
+                "answer": "USA"
+            },
+            {
+                "alternative": "Kygo",
+                "answer": "Norge"
+            },
+            {
+                "alternative": "Robin Schulz",
+                "answer": "Tyskland"
+            },
+            {
+                "alternative": "Sia",
+                "answer": "Australien"
+            }
+        ]
+    },
+    {
+        "id": "170-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "I vilken film/bok/serie verkar detta företag?",
+        "answers": [
+            {
+                "alternative": "Cyberdyne Systems",
+                "answer": "Terminator"
+            },
+            {
+                "alternative": "Daily Planet",
+                "answer": "Stålmannen"
+            },
+            {
+                "alternative": "Tyrell Corp.",
+                "answer": "Blade Runner"
+            },
+            {
+                "alternative": "Duff",
+                "answer": "Simpsons"
+            },
+            {
+                "alternative": "Gringotts",
+                "answer": "Harry Potter"
+            },
+            {
+                "alternative": "Stark Industries",
+                "answer": "Iron Man"
+            },
+            {
+                "alternative": "Acme Corp.",
+                "answer": "Looney Tunes"
+            },
+            {
+                "alternative": "Pied Piper",
+                "answer": "Silicon Valley"
+            },
+            {
+                "alternative": "InGen",
+                "answer": "Jurassic Park"
+            },
+            {
+                "alternative": "Umbrella Corporation",
+                "answer": "Resident Evil"
+            }
+        ]
+    },
+    {
+        "id": "70-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilket år?",
+        "answers": [
+            {
+                "alternative": "9/11",
+                "answer": "2001"
+            },
+            {
+                "alternative": "högertrafikomläggningen",
+                "answer": "1967"
+            },
+            {
+                "alternative": "Berlinmurens fall",
+                "answer": "1989"
+            },
+            {
+                "alternative": "Sverige gick med i EU",
+                "answer": "1995"
+            },
+            {
+                "alternative": "Elvis dog",
+                "answer": "1977"
+            },
+            {
+                "alternative": "första världskriget startade",
+                "answer": "1914"
+            },
+            {
+                "alternative": "Estonia-katastrofen",
+                "answer": "1994"
+            },
+            {
+                "alternative": "Nelson Mandelas frigivning",
+                "answer": "1990"
+            },
+            {
+                "alternative": "tsunamin i Thailand",
+                "answer": "2004"
+            },
+            {
+                "alternative": "Sverige tog silver i fotbolls-VM för herrar",
+                "answer": "1958"
+            }
+        ]
+    },
+    {
+        "id": "69-2",
+        "series": "2nd",
+        "type": "rank",
+        "question": "Skådespelarna efter ålder (1=äldst)",
+        "answers": [
+            {
+                "alternative": "Stellan Skarsgård",
+                "answer": 3
+            },
+            {
+                "alternative": "Matt Damon",
+                "answer": 7
+            },
+            {
+                "alternative": "Charlton Heston",
+                "answer": 1
+            },
+            {
+                "alternative": "Scarlett Johansson",
+                "answer": 10
+            },
+            {
+                "alternative": "Leonardo DiCaprio",
+                "answer": 8
+            },
+            {
+                "alternative": "Brad Pitt",
+                "answer": 5
+            },
+            {
+                "alternative": "Denzel Washington",
+                "answer": 4
+            },
+            {
+                "alternative": "Sandra Bullock",
+                "answer": 6
+            },
+            {
+                "alternative": "Samuel L. Jackson",
+                "answer": 2
+            },
+            {
+                "alternative": "Charlize Theron",
+                "answer": 9
+            }
+        ]
+    },
+    {
+        "id": "169-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vems rollfigur?",
+        "answers": [
+            {
+                "alternative": "Bridget Jones",
+                "answer": "Renée Zellweger"
+            },
+            {
+                "alternative": "Elle Woods",
+                "answer": "Reese Witherspoon"
+            },
+            {
+                "alternative": "Holly Golightly",
+                "answer": "Audrey Hepburn"
+            },
+            {
+                "alternative": "Mr. Bean",
+                "answer": "Rowan Atkinson"
+            },
+            {
+                "alternative": "Maximus",
+                "answer": "Russel Crowe"
+            },
+            {
+                "alternative": "Frank Drebin",
+                "answer": "Leslie Nielsen"
+            },
+            {
+                "alternative": "Neo",
+                "answer": "Keanu Reeves"
+            },
+            {
+                "alternative": "Ellen Ripley",
+                "answer": "Sigourney Weaver"
+            },
+            {
+                "alternative": "Greg Focker",
+                "answer": "Ben Stiller"
+            },
+            {
+                "alternative": "Amélie Poulain",
+                "answer": "Audrey Tautou"
+            }
+        ]
+    },
+    {
+        "id": "172-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilken sport är klubben mest känd för?",
+        "answers": [
+            {
+                "alternative": "Miami Dolphins",
+                "answer": "amerikansk fotboll"
+            },
+            {
+                "alternative": "Cape Town Stormers",
+                "answer": "rugby"
+            },
+            {
+                "alternative": "New York Yankees",
+                "answer": "baseboll"
+            },
+            {
+                "alternative": "Boston Bruins",
+                "answer": "ishockey"
+            },
+            {
+                "alternative": "New York Giants",
+                "answer": "amerikansk fotboll"
+            },
+            {
+                "alternative": "New York Mets",
+                "answer": "baseboll"
+            },
+            {
+                "alternative": "Bayern München",
+                "answer": "fotboll"
+            },
+            {
+                "alternative": "Brentford FC",
+                "answer": "fotboll"
+            },
+            {
+                "alternative": "Norrköping Dolphins",
+                "answer": "basket"
+            },
+            {
+                "alternative": "IK Bolton",
+                "answer": "handboll"
+            }
+        ]
+    },
+    {
+        "id": "72-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Är ett primtal",
+        "answers": [
+            {
+                "alternative": "2",
+                "answer": true
+            },
+            {
+                "alternative": "36",
+                "answer": false
+            },
+            {
+                "alternative": "7",
+                "answer": true
+            },
+            {
+                "alternative": "43",
+                "answer": true
+            },
+            {
+                "alternative": "61",
+                "answer": true
+            },
+            {
+                "alternative": "691",
+                "answer": true
+            },
+            {
+                "alternative": "9",
+                "answer": false
+            },
+            {
+                "alternative": "63",
+                "answer": false
+            },
+            {
+                "alternative": "5",
+                "answer": true
+            },
+            {
+                "alternative": "77",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "166-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Har fått Nobelpris i litteratur",
+        "answers": [
+            {
+                "alternative": "Tove Jansson",
+                "answer": false
+            },
+            {
+                "alternative": "J.R.R. Tolkien",
+                "answer": false
+            },
+            {
+                "alternative": "John Steinbeck",
+                "answer": true
+            },
+            {
+                "alternative": "Winston Churchill",
+                "answer": true
+            },
+            {
+                "alternative": "Isabel Allende",
+                "answer": false
+            },
+            {
+                "alternative": "August Strindberg",
+                "answer": false
+            },
+            {
+                "alternative": "Sigrid Undset",
+                "answer": true
+            },
+            {
+                "alternative": "James Joyce",
+                "answer": false
+            },
+            {
+                "alternative": "Frans Eemil Sillanpää",
+                "answer": true
+            },
+            {
+                "alternative": "Bob Dylan",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "66-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vems konstverk?",
+        "answers": [
+            {
+                "alternative": "Frukost under stora björken",
+                "answer": "Carl Larsson"
+            },
+            {
+                "alternative": "Flicka med pärlörhänge",
+                "answer": "Johannes Vermeer"
+            },
+            {
+                "alternative": "Solrosor",
+                "answer": "Vincent van Gogh"
+            },
+            {
+                "alternative": "Karl XII:s likfärd",
+                "answer": "Gustaf Cederström"
+            },
+            {
+                "alternative": "Den 3 maj 1808",
+                "answer": "Francisco de Goya"
+            },
+            {
+                "alternative": "Flickorna från Avignon",
+                "answer": "Pablo Picasso"
+            },
+            {
+                "alternative": "Wilhelm Tells gåta",
+                "answer": "Salvador Dalí"
+            },
+            {
+                "alternative": "Brillo Box",
+                "answer": "Andy Warhol"
+            },
+            {
+                "alternative": "Porträtt av Adele Bloch-Bauer I",
+                "answer": "Gustav Klimt"
+            },
+            {
+                "alternative": "Bildernas opålitlighet",
+                "answer": "René Magritte"
+            }
+        ]
+    },
+    {
+        "id": "167-2-2021",
+        "series": "2nd",
+        "type": "rank",
+        "question": "Vinter-OS-nationer enligt antal guldmedaljer 2021 (1=flest)",
+        "answers": [
+            {
+                "alternative": "Italien",
+                "answer": 7
+            },
+            {
+                "alternative": "Sydkorea",
+                "answer": 8
+            },
+            {
+                "alternative": "Kanada",
+                "answer": 3
+            },
+            {
+                "alternative": "Nederländerna",
+                "answer": 5
+            },
+            {
+                "alternative": "Finland",
+                "answer": 6
+            },
+            {
+                "alternative": "Japan",
+                "answer": 9
+            },
+            {
+                "alternative": "Sverige",
+                "answer": 4
+            },
+            {
+                "alternative": "Belarus",
+                "answer": 10
+            },
+            {
+                "alternative": "Norge",
+                "answer": 1
+            },
+            {
+                "alternative": "USA",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "id": "67-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Tecknet för detta grundämne?",
+        "answers": [
+            {
+                "alternative": "väte",
+                "answer": "H"
+            },
+            {
+                "alternative": "neon",
+                "answer": "Ne"
+            },
+            {
+                "alternative": "kisel",
+                "answer": "Si"
+            },
+            {
+                "alternative": "klor",
+                "answer": "Cl"
+            },
+            {
+                "alternative": "järn",
+                "answer": "Fe"
+            },
+            {
+                "alternative": "zink",
+                "answer": "Zn"
+            },
+            {
+                "alternative": "radon",
+                "answer": "Rn"
+            },
+            {
+                "alternative": "plutonium",
+                "answer": "Pu"
+            },
+            {
+                "alternative": "bohrium",
+                "answer": "Bh"
+            },
+            {
+                "alternative": "platina",
+                "answer": "Pt"
+            }
+        ]
+    },
+    {
+        "id": "168-2",
+        "series": "2nd",
+        "type": "period",
+        "question": "Århundradet när slaget ägde rum",
+        "answers": [
+            {
+                "alternative": "slaget vid Lützen",
+                "answer": "1600-talet"
+            },
+            {
+                "alternative": "slaget om Musa Qala",
+                "answer": "2000-talet"
+            },
+            {
+                "alternative": "slaget vid Hasting",
+                "answer": "1000-talet"
+            },
+            {
+                "alternative": "slaget vid Narva",
+                "answer": "1700-talet"
+            },
+            {
+                "alternative": "slaget om Guadalcanal",
+                "answer": "1900-talet"
+            },
+            {
+                "alternative": "slaget vid Azincourt",
+                "answer": "1400-talet"
+            },
+            {
+                "alternative": "slaget vid Waterloo",
+                "answer": "1800-talet"
+            },
+            {
+                "alternative": "slaget vid Gallipoli",
+                "answer": "1900-talet"
+            },
+            {
+                "alternative": "slaget vid Gettysburg",
+                "answer": "1800-talet"
+            },
+            {
+                "alternative": "slaget vid Trafalgar",
+                "answer": "1800-talet"
+            }
+        ]
+    },
+    {
+        "id": "68-2",
+        "series": "2nd",
+        "type": "rank",
+        "question": "Länder i ordning efter befolkningstäthet (1=tätast)",
+        "answers": [
+            {
+                "alternative": "Nederländerna",
+                "answer": 4
+            },
+            {
+                "alternative": "Polen",
+                "answer": 5
+            },
+            {
+                "alternative": "Finland",
+                "answer": 9
+            },
+            {
+                "alternative": "Estland",
+                "answer": 7
+            },
+            {
+                "alternative": "Sverige",
+                "answer": 8
+            },
+            {
+                "alternative": "Bangladesh",
+                "answer": 3
+            },
+            {
+                "alternative": "Bahrain",
+                "answer": 2
+            },
+            {
+                "alternative": "Monaco",
+                "answer": 1
+            },
+            {
+                "alternative": "Mongoliet",
+                "answer": 10
+            },
+            {
+                "alternative": "Mexiko",
+                "answer": 6
+            }
+        ]
+    },
+    {
+        "id": "101-2",
+        "series": "2nd",
+        "type": "color",
+        "question": "Vad har korset/snedkorset för färg i flaggan?",
+        "answers": [
+            {
+                "alternative": "England",
+                "answer": ["red"]
+            },
+            {
+                "alternative": "Schweiz",
+                "answer": ["white"]
+            },
+            {
+                "alternative": "Burundi",
+                "answer": ["white"]
+            },
+            {
+                "alternative": "Skottland",
+                "answer": ["white"]
+            },
+            {
+                "alternative": "Jersey",
+                "answer": ["red"]
+            },
+            {
+                "alternative": "Dominikanska republiken",
+                "answer": ["white"]
+            },
+            {
+                "alternative": "Skåne",
+                "answer": ["yellow"]
+            },
+            {
+                "alternative": "Jamaica",
+                "answer": ["yellow"]
+            },
+            {
+                "alternative": "Shetlandsöarna",
+                "answer": ["white"]
+            },
+            {
+                "alternative": "Georgien",
+                "answer": ["red"]
+            }
+        ]
+    },
+    {
+        "id": "1-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Djur i den kinesiska zodiaken",
+        "answers": [
+            {
+                "alternative": "orm",
+                "answer": true
+            },
+            {
+                "alternative": "får",
+                "answer": true
+            },
+            {
+                "alternative": "katt",
+                "answer": false
+            },
+            {
+                "alternative": "apa",
+                "answer": true
+            },
+            {
+                "alternative": "tiger",
+                "answer": true
+            },
+            {
+                "alternative": "elefant",
+                "answer": false
+            },
+            {
+                "alternative": "syrsa",
+                "answer": false
+            },
+            {
+                "alternative": "råtta",
+                "answer": true
+            },
+            {
+                "alternative": "antipol",
+                "answer": false
+            },
+            {
+                "alternative": "panda",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "157-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilken vetenskap? Läran om…",
+        "answers": [
+            {
+                "alternative": "logiska samband mellan storheter",
+                "answer": "matematik"
+            },
+            {
+                "alternative": "själslivet",
+                "answer": "psykologi"
+            },
+            {
+                "alternative": "grundämnen och kemiska föreningar",
+                "answer": "kemi"
+            },
+            {
+                "alternative": "jordklotets uppbyggnad",
+                "answer": "geologi"
+            },
+            {
+                "alternative": "världens kultur- och samhällstyper",
+                "answer": "antropologi"
+            },
+            {
+                "alternative": "himlakropparna och universum",
+                "answer": "astronomi"
+            },
+            {
+                "alternative": "ords språkhistoriska ursprung",
+                "answer": "etymologi"
+            },
+            {
+                "alternative": "ljud",
+                "answer": "akustik"
+            },
+            {
+                "alternative": "energi och dess onvandling",
+                "answer": "termodynamik"
+            },
+            {
+                "alternative": "döden och döendet",
+                "answer": "thanatologi"
+            }
+        ]
+    },
+    {
+        "id": "57-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Berömda britter",
+        "answers": [
+            {
+                "alternative": "John Calvin",
+                "answer": false
+            },
+            {
+                "alternative": "Thomas Hobbes",
+                "answer": true
+            },
+            {
+                "alternative": "J.R.R. Tolkien",
+                "answer": true
+            },
+            {
+                "alternative": "Walt Whitman",
+                "answer": false
+            },
+            {
+                "alternative": "Charles Darwin",
+                "answer": true
+            },
+            {
+                "alternative": "Richard Branson",
+                "answer": true
+            },
+            {
+                "alternative": "Florence Nightingale",
+                "answer": true
+            },
+            {
+                "alternative": "Stephen Hawking",
+                "answer": true
+            },
+            {
+                "alternative": "Robert Baden-Power",
+                "answer": true
+            },
+            {
+                "alternative": "Lee Harvey Oswald",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "142-2-2021",
+        "series": "2nd",
+        "type": "rank",
+        "question": "Randordna svenska företag efter antal anställda (2021; 1=flest)",
+        "answers": [
+            {
+                "alternative": "Samhall",
+                "answer": 6
+            },
+            {
+                "alternative": "NCC",
+                "answer": 8
+            },
+            {
+                "alternative": "Securitas",
+                "answer": 1
+            },
+            {
+                "alternative": "H&M",
+                "answer": 2
+            },
+            {
+                "alternative": "Stena",
+                "answer": 9
+            },
+            {
+                "alternative": "Assa Abloy",
+                "answer": 3
+            },
+            {
+                "alternative": "PostNord",
+                "answer": 5
+            },
+            {
+                "alternative": "Scania",
+                "answer": 4
+            },
+            {
+                "alternative": "Sweco",
+                "answer": 10
+            },
+            {
+                "alternative": "SSAB",
+                "answer": 7
+            }
+        ]
+    },
+    {
+        "id": "42-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Är ett av FN:s fackorgan",
+        "answers": [
+            {
+                "alternative": "UNICEF",
+                "answer": false
+            },
+            {
+                "alternative": "IMO",
+                "answer": true
+            },
+            {
+                "alternative": "IMF",
+                "answer": true
+            },
+            {
+                "alternative": "NAFTA",
+                "answer": false
+            },
+            {
+                "alternative": "UNESCO",
+                "answer": true
+            },
+            {
+                "alternative": "WHO",
+                "answer": true
+            },
+            {
+                "alternative": "WWF",
+                "answer": false
+            },
+            {
+                "alternative": "ILO",
+                "answer": true
+            },
+            {
+                "alternative": "UNHCR",
+                "answer": false
+            },
+            {
+                "alternative": "UNFIT",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "158-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vem har komponerat?",
+        "answers": [
+            {
+                "alternative": "Lohengrin",
+                "answer": "Wagner"
+            },
+            {
+                "alternative": "Matteuspassionen",
+                "answer": "J.S. Bach"
+            },
+            {
+                "alternative": "Nibelungens ring",
+                "answer": "Wagner"
+            },
+            {
+                "alternative": "Rigoletto",
+                "answer": "Verdi"
+            },
+            {
+                "alternative": "Radetzky-marsch",
+                "answer": "Strauss d.ä."
+            },
+            {
+                "alternative": "I bergakungens sal",
+                "answer": "Grieg"
+            },
+            {
+                "alternative": "Ödessymfonin",
+                "answer": "Beethoven"
+            },
+            {
+                "alternative": "Figaros bröllop",
+                "answer": "Mozart"
+            },
+            {
+                "alternative": "Nötknäpparen",
+                "answer": "Tjajkovskij"
+            },
+            {
+                "alternative": "La Traviata",
+                "answer": "Verdi"
+            }
+        ]
+    },
+    {
+        "id": "58-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilket svenskt djur?",
+        "answers": [
+            {
+                "alternative": "störst på land",
+                "answer": "älg"
+            },
+            {
+                "alternative": "snabbast i luften",
+                "answer": "pilgrimsfalk"
+            },
+            {
+                "alternative": "snabbast på land",
+                "answer": "hare"
+            },
+            {
+                "alternative": "störst i vattnet",
+                "answer": "brugd"
+            },
+            {
+                "alternative": "största gnagare",
+                "answer": "bäver"
+            },
+            {
+                "alternative": "största skalbagge",
+                "answer": "ekoxe"
+            },
+            {
+                "alternative": "minsta däggdjuret",
+                "answer": "dvärgnäbbmus"
+            },
+            {
+                "alternative": "största rovdjuret",
+                "answer": "brunbjörn"
+            },
+            {
+                "alternative": "minsta rovdäggdjuret",
+                "answer": "dvärgvessla"
+            },
+            {
+                "alternative": "talrikaste däggdjuret",
+                "answer": "åkersork"
+            }
+        ]
+    },
+    {
+        "id": "143-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilket land eller område är detta?",
+        "answers": [
+            {
+                "alternativeUrl": "/questions/143-2/italy.svg",
+                "answer": "Italien"
+            },
+            {
+                "alternativeUrl": "/questions/143-2/china.svg",
+                "answer": "Kina"
+            },
+            {
+                "alternativeUrl": "/questions/143-2/austria.svg",
+                "answer": "Österrike"
+            },
+            {
+                "alternativeUrl": "/questions/143-2/denmark.svg",
+                "answer": "Danmark"
+            },
+            {
+                "alternativeUrl": "/questions/143-2/turkey.svg",
+                "answer": "Turkiet"
+            },
+            {
+                "alternativeUrl": "/questions/143-2/australia.svg",
+                "answer": "Australien"
+            },
+            {
+                "alternativeUrl": "/questions/143-2/south-africa.svg",
+                "answer": "Sydafrika"
+            },
+            {
+                "alternativeUrl": "/questions/143-2/new-zealand.svg",
+                "answer": "Nya Zeeland"
+            },
+            {
+                "alternativeUrl": "/questions/143-2/mauritania.svg",
+                "answer": "Mauretanien"
+            },
+            {
+                "alternativeUrl": "/questions/143-2/greenland.svg",
+                "answer": "Grönland"
+            }
+        ]
+    },
+    {
+        "id": "43-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Hemingway, Steinbeck eller Dickens?",
+        "answers": [
+            {
+                "alternative": "En berättelse om två städer",
+                "answer": "Dickens"
+            },
+            {
+                "alternative": "Riddarna kring Dannys bord",
+                "answer": "Steinbeck"
+            },
+            {
+                "alternative": "Och solen har sin gång",
+                "answer": "Hemingway"
+            },
+            {
+                "alternative": "Möss och människor",
+                "answer": "Steinbeck"
+            },
+            {
+                "alternative": "Pärlan",
+                "answer": "Steinbeck"
+            },
+            {
+                "alternative": "Farväl till vapnen",
+                "answer": "Hemingway"
+            },
+            {
+                "alternative": "Öster om Eden",
+                "answer": "Steinbeck"
+            },
+            {
+                "alternative": "Lysande utsikter",
+                "answer": "Dickens"
+            },
+            {
+                "alternative": "Lilla Dorrit",
+                "answer": "Dickens"
+            },
+            {
+                "alternative": "Klockan klämtar för dig",
+                "answer": "Hemingway"
+            }
+        ]
+    },
+    {
+        "id": "20-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Gröna druvsorter (vanliga i vita viner)",
+        "answers": [
+            {
+                "alternative": "Viognier",
+                "answer": true
+            },
+            {
+                "alternative": "Sémillon",
+                "answer": true
+            },
+            {
+                "alternative": "Riesling",
+                "answer": true
+            },
+            {
+                "alternative": "Nebbiolo",
+                "answer": false
+            },
+            {
+                "alternative": "Chardonnay",
+                "answer": true
+            },
+            {
+                "alternative": "Trebbiano",
+                "answer": true
+            },
+            {
+                "alternative": "Pinotage",
+                "answer": false
+            },
+            {
+                "alternative": "Colombard",
+                "answer": true
+            },
+            {
+                "alternative": "Parellada",
+                "answer": true
+            },
+            {
+                "alternative": "Gamay",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "120-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "En handväska av vilket modehus / designer?",
+        "answers": [
+            {
+                "alternative": "Falabella",
+                "answer": "Stella McCartney"
+            },
+            {
+                "alternative": "Birkin",
+                "answer": "Hermès"
+            },
+            {
+                "alternative": "Bayswater",
+                "answer": "Mulberry"
+            },
+            {
+                "alternative": "Antigona",
+                "answer": "Givenchy"
+            },
+            {
+                "alternative": "Kelly",
+                "answer": "Hermès"
+            },
+            {
+                "alternative": "Le Pliage",
+                "answer": "Longchamp"
+            },
+            {
+                "alternative": "Speedy",
+                "answer": "Louis Vuitton"
+            },
+            {
+                "alternative": "Jackie",
+                "answer": "Gucci"
+            },
+            {
+                "alternative": "Neverfull",
+                "answer": "Louis Vuitton"
+            },
+            {
+                "alternative": "Saffiano",
+                "answer": "Prada"
+            }
+        ]
+    },
+    {
+        "id": "19-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "I vilket svenskt barnprogram…",
+        "answers": [
+            {
+                "alternative": "hoppade en vilsen enbent pojke runt",
+                "answer": "Vilse i Pannkakan"
+            },
+            {
+                "alternative": "blir en gumma liten i tid och otid",
+                "answer": "Teskedsgumman"
+            },
+            {
+                "alternative": "spelar Eva Rydberg ett litet troll",
+                "answer": "Trolltider"
+            },
+            {
+                "alternative": "förklarar Ugglan Helge ord",
+                "answer": "Från A till Ö"
+            },
+            {
+                "alternative": "bjuder en björn in till sitt magasin",
+                "answer": "Björnes magasin"
+            },
+            {
+                "alternative": "ger en docka bra trafiktips",
+                "answer": "Anita och Televinken"
+            },
+            {
+                "alternative": "sa Bengt Alsterlind ”tjipp”",
+                "answer": "Hajk"
+            },
+            {
+                "alternative": "visades brevfilmer",
+                "answer": "Bullen"
+            },
+            {
+                "alternative": "lagade Johanna och Mixern mat",
+                "answer": "Rätt i rutan"
+            },
+            {
+                "alternative": "får vi nyheter på lagom nivå",
+                "answer": "Lilla Aktuellt"
+            }
+        ]
+    },
+    {
+        "id": "119-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vad heter det när man",
+        "answers": [
+            {
+                "alternative": "har svårt att hålla urinen",
+                "answer": "inkontinens"
+            },
+            {
+                "alternative": "är gluten-intolerant",
+                "answer": "celiaki"
+            },
+            {
+                "alternative": "har erektions-problem",
+                "answer": "impotens"
+            },
+            {
+                "alternative": "är känslig för mjölksocker",
+                "answer": "laktos-intolerans"
+            },
+            {
+                "alternative": "har för hög kropps-temperatur",
+                "answer": "feber"
+            },
+            {
+                "alternative": "har för låg kropps-temperatur",
+                "answer": "hypotermi"
+            },
+            {
+                "alternative": "har för lite syre i blodet",
+                "answer": "hypoxemi"
+            },
+            {
+                "alternative": "inte kan få barn",
+                "answer": "infertilitet"
+            },
+            {
+                "alternative": "har överdriven sjukdoms-ångest",
+                "answer": "hypokondri"
+            },
+            {
+                "alternative": "är överkänslig mot vissa ämnen",
+                "answer": "allergi"
+            }
+        ]
+    },
+    {
+        "id": "18-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vem är känd för denna låt?",
+        "answers": [
+            {
+                "alternative": "9 to 5",
+                "answer": "Dolly Parton"
+            },
+            {
+                "alternative": "I Will Always Love You",
+                "answer": "Whitney Houston"
+            },
+            {
+                "alternative": "Wrecking Ball",
+                "answer": "Miley Cyrus"
+            },
+            {
+                "alternative": "Halo",
+                "answer": "Beyoncé"
+            },
+            {
+                "alternative": "Mercedes Benz",
+                "answer": "Janis Joplin"
+            },
+            {
+                "alternative": "My Heart Will Go On",
+                "answer": "Céline Dion"
+            },
+            {
+                "alternative": "Someone Like You",
+                "answer": "Adele"
+            },
+            {
+                "alternative": "Imagine",
+                "answer": "John Lennon"
+            },
+            {
+                "alternative": "I’m on Fire",
+                "answer": "Bbruce Springsteen"
+            },
+            {
+                "alternative": "Jump",
+                "answer": "van Halen"
+            }
+        ]
+    },
+    {
+        "id": "118-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vem har skrivit…",
+        "answers": [
+            {
+                "alternative": "Den store Gatsby",
+                "answer": "F. Scott Fitzgerald"
+            },
+            {
+                "alternative": "Kejsarn av Portugallien",
+                "answer": "Selma Lagerlöf"
+            },
+            {
+                "alternative": "Femtio nyanser av honom",
+                "answer": "E.L. James"
+            },
+            {
+                "alternative": "1Q84",
+                "answer": "Haruki Murakami"
+            },
+            {
+                "alternative": "Moment 22",
+                "answer": "Joseph Heller"
+            },
+            {
+                "alternative": "På spaning efter den tid som flytt",
+                "answer": "Marcel Proust"
+            },
+            {
+                "alternative": "Hundra år av ensamhet",
+                "answer": "Gabriel García Márquez"
+            },
+            {
+                "alternative": "Baskervilles hund",
+                "answer": "Arthur Conan Doyle"
+            },
+            {
+                "alternative": "Satans-verserna",
+                "answer": "Salman Rushdie"
+            },
+            {
+                "alternative": "De små tingens gud",
+                "answer": "Arundhati Roy"
+            }
+        ]
+    },
+    {
+        "id": "16-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Är en livsnödvändig vitamin",
+        "answers": [
+            {
+                "alternative": "D",
+                "answer": true
+            },
+            {
+                "alternative": "A2",
+                "answer": false
+            },
+            {
+                "alternative": "B1",
+                "answer": true
+            },
+            {
+                "alternative": "B12",
+                "answer": true
+            },
+            {
+                "alternative": "X",
+                "answer": false
+            },
+            {
+                "alternative": "K",
+                "answer": true
+            },
+            {
+                "alternative": "B4",
+                "answer": false
+            },
+            {
+                "alternative": "B6",
+                "answer": true
+            },
+            {
+                "alternative": "M",
+                "answer": false
+            },
+            {
+                "alternative": "A",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "116-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Regi av Scorsese, Coppola eller Spielberg?",
+        "answers": [
+            {
+                "alternative": "Hajen",
+                "answer": "Spielberg"
+            },
+            {
+                "alternative": "Taxi Driver",
+                "answer": "Scorsese"
+            },
+            {
+                "alternative": "Gudfadern",
+                "answer": "Coppola"
+            },
+            {
+                "alternative": "Schindler’s List",
+                "answer": "Spielberg"
+            },
+            {
+                "alternative": "E.T. the Extra-Terrestrial",
+                "answer": "Spielberg"
+            },
+            {
+                "alternative": "The Departed",
+                "answer": "Scorsese"
+            },
+            {
+                "alternative": "Purpurfärgerna",
+                "answer": "Spielberg"
+            },
+            {
+                "alternative": "Apocalypse Now",
+                "answer": "Coppola"
+            },
+            {
+                "alternative": "Oskuldens tid",
+                "answer": "Scorsese"
+            },
+            {
+                "alternative": "Bram Stokers Dracula",
+                "answer": "Coppola"
+            }
+        ]
+    },
+    {
+        "id": "15-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Är ett gruppträningspass som innebär dans",
+        "answers": [
+            {
+                "alternative": "Nia",
+                "answer": true
+            },
+            {
+                "alternative": "Core",
+                "answer": false
+            },
+            {
+                "alternative": "Afrobeat",
+                "answer": true
+            },
+            {
+                "alternative": "HIIT",
+                "answer": false
+            },
+            {
+                "alternative": "BodyBalance",
+                "answer": false
+            },
+            {
+                "alternative": "Sh’Bam",
+                "answer": true
+            },
+            {
+                "alternative": "Piloxing",
+                "answer": false
+            },
+            {
+                "alternative": "Zumba",
+                "answer": true
+            },
+            {
+                "alternative": "Barre",
+                "answer": true
+            },
+            {
+                "alternative": "TRX",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "115-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "I vilken stad finns detta konstverk?",
+        "answers": [
+            {
+                "alternative": "Mona Lisa",
+                "answer": "Paris"
+            },
+            {
+                "alternative": "Venus födelse",
+                "answer": "Florens"
+            },
+            {
+                "alternative": "De badande i Asnieres",
+                "answer": "London"
+            },
+            {
+                "alternative": "Skriet",
+                "answer": "Oslo"
+            },
+            {
+                "alternative": "Guernica",
+                "answer": "Madrid"
+            },
+            {
+                "alternative": "Adams skapelse",
+                "answer": "Vatikanstaden"
+            },
+            {
+                "alternative": "Nattvarden (da Vinci)",
+                "answer": "Milano"
+            },
+            {
+                "alternative": "Stjärnenatt",
+                "answer": "New York"
+            },
+            {
+                "alternative": "Nattvakten",
+                "answer": "Amsterdam"
+            },
+            {
+                "alternative": "Midvinterblot",
+                "answer": "Stockholm"
+            }
+        ]
+    },
+    {
+        "id": "2-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Hände detta år 1917?",
+        "answers": [
+            {
+                "alternative": "USA köper Jungfruöarna av Danmark",
+                "answer": true
+            },
+            {
+                "alternative": "Picasso föds",
+                "answer": false
+            },
+            {
+                "alternative": "Februari-revolutionen i Ryssland",
+                "answer": true
+            },
+            {
+                "alternative": "TV:n uppfinns",
+                "answer": false
+            },
+            {
+                "alternative": "Balfourdeklara-tionen avges",
+                "answer": true
+            },
+            {
+                "alternative": "Marie Curie får Nobelpris",
+                "answer": false
+            },
+            {
+                "alternative": "Svenska hunger-kravallerna",
+                "answer": true
+            },
+            {
+                "alternative": "Första världskriget börjar",
+                "answer": false
+            },
+            {
+                "alternative": "Finland blir självständigt",
+                "answer": true
+            },
+            {
+                "alternative": "Astrid Lindgren föds",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "102-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Sträng- (knäppt), stråk- eller blås-instrument?",
+        "answers": [
+            {
+                "alternative": "erhu",
+                "answer": "stråk"
+            },
+            {
+                "alternative": "kornett",
+                "answer": "blås"
+            },
+            {
+                "alternative": "baryton",
+                "answer": "stråk"
+            },
+            {
+                "alternative": "luta",
+                "answer": "sträng"
+            },
+            {
+                "alternative": "harpa",
+                "answer": "sträng"
+            },
+            {
+                "alternative": "sousafon",
+                "answer": "blås"
+            },
+            {
+                "alternative": "eufonium",
+                "answer": "blås"
+            },
+            {
+                "alternative": "sarinda",
+                "answer": "stråk"
+            },
+            {
+                "alternative": "mandolin",
+                "answer": "sträng"
+            },
+            {
+                "alternative": "vuvuzela",
+                "answer": "blås"
+            }
+        ]
+    },
+    {
+        "id": "14-2",
+        "series": "2nd",
+        "type": "rank",
+        "question": "Litterära verk i kronologisk ordning (1=äldst)",
+        "answers": [
+            {
+                "alternative": "Anonym: Gilgamesh-eposet",
+                "answer": 1
+            },
+            {
+                "alternative": "Kafka: Processen",
+                "answer": 9
+            },
+            {
+                "alternative": "Shakespeare: Hamlet",
+                "answer": 4
+            },
+            {
+                "alternative": "Defoe: Robinson Crusoe",
+                "answer": 6
+            },
+            {
+                "alternative": "Sofokles: Kung Oidipus",
+                "answer": 2
+            },
+            {
+                "alternative": "Dostojevskij: Idioten",
+                "answer": 8
+            },
+            {
+                "alternative": "Shelley: Franken-stein",
+                "answer": 7
+            },
+            {
+                "alternative": "Huxley: Du sköna nya värld",
+                "answer": 10
+            },
+            {
+                "alternative": "Dante: Den gudomliga komedin",
+                "answer": 3
+            },
+            {
+                "alternative": "Milton: Det förlorade paradiset",
+                "answer": 5
+            }
+        ]
+    },
+    {
+        "id": "114-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilken skådespelare har den manliga huvudrollen?",
+        "answers": [
+            {
+                "alternative": "La La Land",
+                "answer": "Ryan Gosling"
+            },
+            {
+                "alternative": "The King’s Speech",
+                "answer": "Colin Firth"
+            },
+            {
+                "alternative": "Lost in Translation",
+                "answer": "Bill Murray"
+            },
+            {
+                "alternative": "A Beautiful Mind",
+                "answer": "Russell Crowe"
+            },
+            {
+                "alternative": "Tootsie",
+                "answer": "Dustin Hoffman"
+            },
+            {
+                "alternative": "Taxi Driver",
+                "answer": "Robert De Niro"
+            },
+            {
+                "alternative": "Jakten på lycka",
+                "answer": "Will Smith"
+            },
+            {
+                "alternative": "Sömnlös i Seattle",
+                "answer": "Tom Hanks"
+            },
+            {
+                "alternative": "Die Hard",
+                "answer": "Bruce Willis"
+            },
+            {
+                "alternative": "Dansar med vargar",
+                "answer": "Kevin Costner"
+            }
+        ]
+    },
+    {
+        "id": "17-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Stämmer detta om vikingarna?",
+        "answers": [
+            {
+                "alternative": "hade horn i hjälmarna",
+                "answer": false
+            },
+            {
+                "alternative": "Birka var en viktig handels-plats",
+                "answer": true
+            },
+            {
+                "alternative": "fanns från ca 400–1200 e.Kr",
+                "answer": false
+            },
+            {
+                "alternative": "majoriteten levde på att härja",
+                "answer": false
+            },
+            {
+                "alternative": "grundade Dublin på Irland",
+                "answer": true
+            },
+            {
+                "alternative": "förfäder till normanderna",
+                "answer": true
+            },
+            {
+                "alternative": "besökte Nordamerika",
+                "answer": true
+            },
+            {
+                "alternative": "Stockholm var huvudstad",
+                "answer": false
+            },
+            {
+                "alternative": "skeppen hade drakhuvuden i fören",
+                "answer": true
+            },
+            {
+                "alternative": "intog Paris",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "117-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "I vilken TV-serie träffar du på…",
+        "answers": [
+            {
+                "alternative": "familjen Ingalls",
+                "answer": "Lilla huset på prärien"
+            },
+            {
+                "alternative": "familjen Baratheon",
+                "answer": "Game of Thrones"
+            },
+            {
+                "alternative": "familjen Ewing",
+                "answer": "Dallas"
+            },
+            {
+                "alternative": "Carrie, Samantha och Miranda",
+                "answer": "Sex and the City"
+            },
+            {
+                "alternative": "familjerna DiMeo och Lupertazzi",
+                "answer": "Sopranos"
+            },
+            {
+                "alternative": "familjen Geller",
+                "answer": "Vänner"
+            },
+            {
+                "alternative": "Zeb, Luke och Laura",
+                "answer": "Familjen Macahan"
+            },
+            {
+                "alternative": "Melker, Pelle och Stina Melkersson",
+                "answer": "Saltkråkan"
+            },
+            {
+                "alternative": "familjen Griffin",
+                "answer": "Family Guy"
+            },
+            {
+                "alternative": "Don och Megan Draper",
+                "answer": "Mad Men"
+            }
+        ]
+    },
+    {
+        "id": "12-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilken sport är denna person känd för?",
+        "answers": [
+            {
+                "alternative": "Lindsey Vonn",
+                "answer": "utförsåkning"
+            },
+            {
+                "alternative": "Marta",
+                "answer": "fotboll"
+            },
+            {
+                "alternative": "Serena Williams",
+                "answer": "tennis"
+            },
+            {
+                "alternative": "Marit Bjørgen",
+                "answer": "längdskidåkning"
+            },
+            {
+                "alternative": "Ronda Rousey",
+                "answer": "MMA (judo)"
+            },
+            {
+                "alternative": "Maria Sharapova",
+                "answer": "tennis"
+            },
+            {
+                "alternative": "Birgit Prinz",
+                "answer": "fotboll"
+            },
+            {
+                "alternative": "Jelena Isinbajeva",
+                "answer": "stavhopp"
+            },
+            {
+                "alternative": "Paula Radcliffe",
+                "answer": "löpning"
+            },
+            {
+                "alternative": "Nadia Comăneci",
+                "answer": "gymnastik"
+            }
+        ]
+    },
+    {
+        "id": "10-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Läran om vadå?",
+        "answers": [
+            {
+                "alternative": "speleologi",
+                "answer": "grottor"
+            },
+            {
+                "alternative": "paleontologi",
+                "answer": "förhistoriskt liv"
+            },
+            {
+                "alternative": "entomologi",
+                "answer": "insekter"
+            },
+            {
+                "alternative": "kartografi",
+                "answer": "att framställa kartor"
+            },
+            {
+                "alternative": "ornitologi",
+                "answer": "fåglar"
+            },
+            {
+                "alternative": "seismologi",
+                "answer": "jordbävningar"
+            },
+            {
+                "alternative": "mineralogi",
+                "answer": "mineraler"
+            },
+            {
+                "alternative": "petrologi",
+                "answer": "stenarter"
+            },
+            {
+                "alternative": "oceanografi",
+                "answer": "oceaner och hav"
+            },
+            {
+                "alternative": "virologi",
+                "answer": "organiska virus"
+            }
+        ]
+    },
+    {
+        "id": "110-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilken konstterm syftar förklaringen på?",
+        "answers": [
+            {
+                "alternative": "målning med vattenlöslig färg",
+                "answer": "akvarell"
+            },
+            {
+                "alternative": "målning på ännu fuktig kalkputs",
+                "answer": "al fresco"
+            },
+            {
+                "alternative": "tudelad tavla",
+                "answer": "diptyk"
+            },
+            {
+                "alternative": "bifigur i en målning",
+                "answer": "staffage"
+            },
+            {
+                "alternative": "ytstruktur på målarytan",
+                "answer": "gräng"
+            },
+            {
+                "alternative": "skönskrift",
+                "answer": "kalligrafi"
+            },
+            {
+                "alternative": "skiva att lägga färgen på",
+                "answer": "palett"
+            },
+            {
+                "alternative": "motiv av arrangerade föremål",
+                "answer": "stilleben"
+            },
+            {
+                "alternative": "illusions-måleri / ”lura ögat”",
+                "answer": "trompe l’œil"
+            },
+            {
+                "alternative": "ställning att ha duken på",
+                "answer": "staffli"
+            }
+        ]
+    },
+    {
+        "id": "173-2",
+        "series": "2nd",
+        "type": "boolean",
+        "question": "Är en av atomens byggstenar",
+        "answers": [
+            {
+                "alternative": "proton",
+                "answer": true
+            },
+            {
+                "alternative": "eketron",
+                "answer": true
+            },
+            {
+                "alternative": "kromosom",
+                "answer": false
+            },
+            {
+                "alternative": "hadron",
+                "answer": true
+            },
+            {
+                "alternative": "meson",
+                "answer": true
+            },
+            {
+                "alternative": "mezzanin",
+                "answer": false
+            },
+            {
+                "alternative": "baryon",
+                "answer": true
+            },
+            {
+                "alternative": "hexagon",
+                "answer": false
+            },
+            {
+                "alternative": "kvark",
+                "answer": true
+            },
+            {
+                "alternative": "feromon",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "111-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Denna musikaliska duo är även känd som…",
+        "answers": [
+            {
+                "alternative": "Vince Clarke och Andy Bell",
+                "answer": "Erasure"
+            },
+            {
+                "alternative": "André 3000 och Big Boi",
+                "answer": "Outkast"
+            },
+            {
+                "alternative": "Annie Lennox och Dave Stewart",
+                "answer": "Eurythmics"
+            },
+            {
+                "alternative": "Johanna och Klara Söderberg",
+                "answer": "First Aid Kit"
+            },
+            {
+                "alternative": "Lili och Suei Päivärinta",
+                "answer": "Lili & Susie"
+            },
+            {
+                "alternative": "Per Gessle och Marie Fredriksson",
+                "answer": "Roxette"
+            },
+            {
+                "alternative": "George Michael och Andrew Ridgeley",
+                "answer": "Wham!"
+            },
+            {
+                "alternative": "Dan Auerbach och Patrick Carney",
+                "answer": "The Black Keys"
+            },
+            {
+                "alternative": "Neil Tennant och Chris Lowe",
+                "answer": "Pet Shop Boys"
+            },
+            {
+                "alternative": "Jack och Meg White",
+                "answer": "The White Stripes"
+            }
+        ]
+    },
+    {
+        "id": "11-2",
+        "series": "2nd",
+        "type": "number",
+        "question": "Antal…",
+        "answers": [
+            {
+                "alternative": "tecken i ett svenskt IBAN",
+                "answer": 24
+            },
+            {
+                "alternative": "kapitel i Bhagavad-Gita",
+                "answer": 18
+            },
+            {
+                "alternative": "Kajsa Ankas systerdöttrar",
+                "answer": 3
+            },
+            {
+                "alternative": "lagparagrafer i Hammurabis lagar",
+                "answer": 282
+            },
+            {
+                "alternative": "kort i en typisk tarotkortlek",
+                "answer": 78
+            },
+            {
+                "alternative": "år som firas med silverbröllop",
+                "answer": 25
+            },
+            {
+                "alternative": "islamska bönetider under ett dygn",
+                "answer": 5
+            },
+            {
+                "alternative": "Nobelpriser Marie Curie fått",
+                "answer": 2
+            },
+            {
+                "alternative": "olympiska medaljer för Monaco",
+                "answer": 0
+            },
+            {
+                "alternative": "numerus i svenskan",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "id": "49-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Vilken pjäs av Shakespeare?",
+        "answers": [
+            {
+                "alternative": "en galen kung och hans döttrar",
+                "answer": "Kung Lear"
+            },
+            {
+                "alternative": "en prins i Danmark",
+                "answer": "Hamlet"
+            },
+            {
+                "alternative": "”den skotska pjäsen”",
+                "answer": "Macbeth"
+            },
+            {
+                "alternative": "en man förvandlad till åsna",
+                "answer": "En midsommarnattsdröm"
+            },
+            {
+                "alternative": "Slaget vid Azincourt",
+                "answer": "Henrik V"
+            },
+            {
+                "alternative": "Rikard III",
+                "answer": "Richard III"
+            },
+            {
+                "alternative": "en balkong i Verona",
+                "answer": "Romeo och Julia"
+            },
+            {
+                "alternative": "ett skålpund kött",
+                "answer": "Köpmannen i Venedig"
+            },
+            {
+                "alternative": "heter som ett spel",
+                "answer": "Othello"
+            },
+            {
+                "alternative": "Prospero och Miranda",
+                "answer": "Stormen"
+            }
+        ]
+    },
+    {
+        "id": "28-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Bandets sångare?",
+        "answers": [
+            {
+                "alternative": "Pearl Jam",
+                "answer": "Eddie Vedder"
+            },
+            {
+                "alternative": "Europe",
+                "answer": "Joey Tempest"
+            },
+            {
+                "alternative": "Iron Maiden",
+                "answer": "Bruce Dickinson"
+            },
+            {
+                "alternative": "Queen",
+                "answer": "Freddy Mercury"
+            },
+            {
+                "alternative": "Guns N’ Roses",
+                "answer": "Axl Rose"
+            },
+            {
+                "alternative": "Nirvana",
+                "answer": "Curt Cobain"
+            },
+            {
+                "alternative": "The Who",
+                "answer": "Roger Daltrey"
+            },
+            {
+                "alternative": "Led Zeppelin",
+                "answer": "Robert Plant"
+            },
+            {
+                "alternative": "Aerosmith",
+                "answer": "Steven Tyler"
+            },
+            {
+                "alternative": "The Rolling Stones",
+                "answer": "Mick Jagger"
+            }
+        ]
+    },
+    {
+        "id": "128-2",
+        "series": "2nd",
+        "type": "regular",
+        "question": "Blås-, slag- eller klaverinstrument?",
+        "answers": [
+            {
+                "alternative": "cajón",
+                "answer": "slag"
+            },
+            {
+                "alternative": "trombon",
+                "answer": "blås"
+            },
+            {
+                "alternative": "xylofon",
+                "answer": "slag"
+            },
+            {
+                "alternative": "klavikord",
+                "answer": "klaver"
+            },
+            {
+                "alternative": "fagott",
+                "answer": "blås"
+            },
+            {
+                "alternative": "skalmeja",
+                "answer": "blås"
+            },
+            {
+                "alternative": "triangel",
+                "answer": "slag"
+            },
+            {
+                "alternative": "oboe",
+                "answer": "blås"
+            },
+            {
+                "alternative": "gurka",
+                "answer": "slag"
+            },
+            {
+                "alternative": "celesta",
+                "answer": "klaver"
+            }
+        ]
+    }
+]

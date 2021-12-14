@@ -1,0 +1,11 @@
+"Regular": {
+    "scope": "json,javascript",
+    "prefix": "rglr",
+    "body": [
+        "{",
+        "\t\"id\": \"$1-2\","
+        "\t\"category\": \"$2\",",
+        "\t\"question\": \"$3\","
+    ],
+    "description": "description"
+}
