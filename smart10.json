@@ -5422,5 +5422,2357 @@
                 "answer": "klaver"
             }
         ]
+    },
+    {
+        "id": "tr-38",
+        "series": "travel",
+        "type": "regular",
+        "question": "I vilken stad hittar du museet?",
+        "answers": [
+            {
+                "alternative": "Musée d’Orsay",
+                "answer": "Paris"
+            },
+            {
+                "alternative": "Eremitaget",
+                "answer": "Sankt Petersburg"
+            },
+            {
+                "alternative": "Pergamon-museet",
+                "answer": "Berlin"
+            },
+            {
+                "alternative": "van Gogh-museet",
+                "answer": "Amsterdam"
+            },
+            {
+                "alternative": "The Getty Center",
+                "answer": "Los Angeles"
+            },
+            {
+                "alternative": "Prado",
+                "answer": "Madrid"
+            },
+            {
+                "alternative": "Te Papa Tongarewa",
+                "answer": "Wellington"
+            },
+            {
+                "alternative": "Leopold Museum",
+                "answer": "Wien"
+            },
+            {
+                "alternative": "Tate Modern",
+                "answer": "London"
+            },
+            {
+                "alternative": "BMW Museum",
+                "answer": "München"
+            }
+        ]
+    },
+    {
+        "id": "tr-88",
+        "series": "travel",
+        "type": "number",
+        "question": "Antalet…",
+        "answers": [
+            {
+                "alternative": "länder som Sahara berör",
+                "answer": 10
+            },
+            {
+                "alternative": "öar i ögruppen Kanarieöarna",
+                "answer": 13
+            },
+            {
+                "alternative": "samebyar i Sverige",
+                "answer": 51
+            },
+            {
+                "alternative": "europavägar på svensk mark",
+                "answer": 11
+            },
+            {
+                "alternative": "svenska sjöar vid namnet Stortjärnen",
+                "answer": 39
+            },
+            {
+                "alternative": "emirat i Förenade Arabemiraten",
+                "answer": 7
+            },
+            {
+                "alternative": "medeltida kyrkor i bruk på Gotland",
+                "answer": 92
+            },
+            {
+                "alternative": "internationella flygplatser på Island",
+                "answer": 1
+            },
+            {
+                "alternative": "dubbelt kustlösa stater i världen",
+                "answer": 2
+            },
+            {
+                "alternative": "biltunnlar till Manhattan",
+                "answer": 4
+            }
+        ]
+    },
+    {
+        "id": "tr-87",
+        "series": "travel",
+        "type": "regular",
+        "question": "Med vilket land förknippas förkortningen av järnvägsbolagets namn?",
+        "answers": [
+            {
+                "alternative": "SNCF",
+                "answer": "Frankrike"
+            },
+            {
+                "alternative": "RENFE",
+                "answer": "Spanien"
+            },
+            {
+                "alternative": "DB",
+                "answer": "Tyskland"
+            },
+            {
+                "alternative": "FS",
+                "answer": "Italien"
+            },
+            {
+                "alternative": "NS",
+                "answer": "Nederländerna"
+            },
+            {
+                "alternative": "SBB",
+                "answer": "Schweiz"
+            },
+            {
+                "alternative": "MAV",
+                "answer": "Ungern"
+            },
+            {
+                "alternative": "Finland",
+                "answer": "VR"
+            },
+            {
+                "alternative": "Slovakien",
+                "answer": "ZSSK"
+            },
+            {
+                "alternative": "CP",
+                "answer": "Portugal"
+            }
+        ]
+    },
+    {
+        "id": "tr-37",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Är ett land vid jordens ekvator",
+        "answers": [
+            {
+                "alternative": "Zambie",
+                "answer": false
+            },
+            {
+                "alternative": "Brasilien",
+                "answer": true
+            },
+            {
+                "alternative": "Colombia",
+                "answer": true
+            },
+            {
+                "alternative": "Malaysia",
+                "answer": false
+            },
+            {
+                "alternative": "Indonesien",
+                "answer": true
+            },
+            {
+                "alternative": "Chile",
+                "answer": false
+            },
+            {
+                "alternative": "Tanzania",
+                "answer": false
+            },
+            {
+                "alternative": "Kenya",
+                "answer": true
+            },
+            {
+                "alternative": "Gabon",
+                "answer": true
+            },
+            {
+                "alternative": "Somalia",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "tr-86",
+        "series": "travel",
+        "type": "rank",
+        "question": "Ordna städerna från väst (=1) till öst (=10)",
+        "answers": [
+            {
+                "alternative": "Indianapolis",
+                "answer": 9
+            },
+            {
+                "alternative": "St. Louis",
+                "answer": 8
+            },
+            {
+                "alternative": "Phoenix",
+                "answer": 4
+            },
+            {
+                "alternative": "Toronto",
+                "answer": 10
+            },
+            {
+                "alternative": "Las Vegas",
+                "answer": 3
+            },
+            {
+                "alternative": "Austin",
+                "answer": 6
+            },
+            {
+                "alternative": "San Siego",
+                "answer": 2
+            },
+            {
+                "alternative": "Denver",
+                "answer": 5
+            },
+            {
+                "alternative": "Houston",
+                "answer": 7
+            },
+            {
+                "alternative": "San Francisco",
+                "answer": 1
+            }
+        ]
+    },
+    {
+        "id": "tr-36",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Tillåten i handbagaget på ett flygplan enligt Transportstyrelsen",
+        "answers": [
+            {
+                "alternative": "rakblad",
+                "answer": false
+            },
+            {
+                "alternative": "korkskruv",
+                "answer": false
+            },
+            {
+                "alternative": "skiftnyckel",
+                "answer": true
+            },
+            {
+                "alternative": "dartpilar",
+                "answer": false
+            },
+            {
+                "alternative": "synål",
+                "answer": true
+            },
+            {
+                "alternative": "baseballslagträ",
+                "answer": false
+            },
+            {
+                "alternative": "tändstickor",
+                "answer": false
+            },
+            {
+                "alternative": "metallsked",
+                "answer": true
+            },
+            {
+                "alternative": "paraply",
+                "answer": true
+            },
+            {
+                "alternative": "flaska med 2 dl vatten",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "tr-18",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Är ett tåg vars topphastighet är över 300 km/h",
+        "answers": [
+            {
+                "alternative": "Railjet",
+                "answer": false
+            },
+            {
+                "alternative": "ICE-1",
+                "answer": true
+            },
+            {
+                "alternative": "Eurostar",
+                "answer": true
+            },
+            {
+                "alternative": "KTX-1",
+                "answer": true
+            },
+            {
+                "alternative": "Thalys",
+                "answer": true
+            },
+            {
+                "alternative": "ICE-4",
+                "answer": false
+            },
+            {
+                "alternative": "Shinkhansen",
+                "answer": true
+            },
+            {
+                "alternative": "TGV",
+                "answer": true
+            },
+            {
+                "alternative": "Velaro E",
+                "answer": true
+            },
+            {
+                "alternative": "ETR 500",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "tr-68",
+        "series": "travel",
+        "type": "regular",
+        "question": "Vad heter den största floden som rinner genom staden?",
+        "answers": [
+            {
+                "alternative": "Kabul",
+                "answer": "Kabul"
+            },
+            {
+                "alternative": "Manila",
+                "answer": "Pasig"
+            },
+            {
+                "alternative": "Kiev",
+                "answer": "Dnepr"
+            },
+            {
+                "alternative": "Aten",
+                "answer": "Ilissos"
+            },
+            {
+                "alternative": "Rom",
+                "answer": "Tibern"
+            },
+            {
+                "alternative": "Nairobi",
+                "answer": "Nairobi-floden"
+            },
+            {
+                "alternative": "Ulan Bator",
+                "answer": "Tuul"
+            },
+            {
+                "alternative": "La Paz",
+                "answer": "Choqueyapu"
+            },
+            {
+                "alternative": "Bratislava",
+                "answer": "Donau"
+            },
+            {
+                "alternative": "Washington D.C.",
+                "answer": "Potomac-floden"
+            }
+        ]
+    },
+    {
+        "id": "tr-17",
+        "series": "travel",
+        "type": "regular",
+        "question": "Vilket land/område identifieras med detta landsnummer?",
+        "answers": [
+            {
+                "alternative": "20",
+                "answer": "Egypten"
+            },
+            {
+                "alternative": "354",
+                "answer": "Island"
+            },
+            {
+                "alternative": "7",
+                "answer": "Ryssland / Kazakhstan"
+            },
+            {
+                "alternative": "33",
+                "answer": "Frankrike"
+            },
+            {
+                "alternative": "34",
+                "answer": "Spanien"
+            },
+            {
+                "alternative": "298",
+                "answer": "Färöarna"
+            },
+            {
+                "alternative": "672",
+                "answer": "Antarktis"
+            },
+            {
+                "alternative": "1",
+                "answer": "USA / Kanada"
+            },
+            {
+                "alternative": "48",
+                "answer": "Polen"
+            },
+            {
+                "alternative": "55",
+                "answer": "Brasilien"
+            }
+        ]
+    },
+    {
+        "id": "tr-67",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Är en av världens 10 högsta byggnader",
+        "answers": [
+            {
+                "alternative": "Suzhou IFS",
+                "answer": false
+            },
+            {
+                "alternative": "432 Park Avenue",
+                "answer": false
+            },
+            {
+                "alternative": "Burj Khalifa",
+                "answer": true
+            },
+            {
+                "alternative": "Shanghai Tower",
+                "answer": true
+            },
+            {
+                "alternative": "Lotte World Tower",
+                "answer": true
+            },
+            {
+                "alternative": "Empire State Building",
+                "answer": false
+            },
+            {
+                "alternative": "China Zun Tower",
+                "answer": true
+            },
+            {
+                "alternative": "Willis Tower",
+                "answer": false
+            },
+            {
+                "alternative": "Petronas Towers",
+                "answer": false
+            },
+            {
+                "alternative": "Ping An Finance Center",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "tr-82",
+        "series": "travel",
+        "type": "regular",
+        "question": "I vilket land ligger staden?",
+        "answers": [
+            {
+                "alternative": "Kharthoum",
+                "answer": "Sudan"
+            },
+            {
+                "alternative": "Karachi",
+                "answer": "Pakistan"
+            },
+            {
+                "alternative": "Cairns",
+                "answer": "Australien"
+            },
+            {
+                "alternative": "Wollongong",
+                "answer": "Australien"
+            },
+            {
+                "alternative": "Christchurch",
+                "answer": "Nya Zeeland"
+            },
+            {
+                "alternative": "Ponce",
+                "answer": "Puerto Rico"
+            },
+            {
+                "alternative": "Harare",
+                "answer": "Zimbabwe"
+            },
+            {
+                "alternative": "Aleppo",
+                "answer": "Syrien"
+            },
+            {
+                "alternative": "Lviv",
+                "answer": "Ukraina"
+            },
+            {
+                "alternative": "Łódź",
+                "answer": "Polen"
+            }
+        ]
+    },
+    {
+        "id": "tr-32",
+        "series": "travel",
+        "type": "regular",
+        "question": "Vilken stad förknippas flygfältet med?",
+        "answers": [
+            {
+                "alternative": "Schiphol",
+                "answer": "Amsterdam"
+            },
+            {
+                "alternative": "Barajas",
+                "answer": "Madrid"
+            },
+            {
+                "alternative": "Fiumicino",
+                "answer": "Rom"
+            },
+            {
+                "alternative": "Atatürk",
+                "answer": "Istanbul"
+            },
+            {
+                "alternative": "Albrecht Dürer",
+                "answer": "Nürnberg"
+            },
+            {
+                "alternative": "Charles de Gaulle",
+                "answer": "Paris"
+            },
+            {
+                "alternative": "John F. Kennedy",
+                "answer": "New York"
+            },
+            {
+                "alternative": "Hongqiao",
+                "answer": "Shanghai"
+            },
+            {
+                "alternative": "Sjeremetievo",
+                "answer": "Moskva"
+            },
+            {
+                "alternative": "O’Hare",
+                "answer": "Chicago"
+            }
+        ]
+    },
+    {
+        "id": "tr-96",
+        "series": "travel",
+        "type": "regular",
+        "question": "Med vilken stad förknippas flygplatskoden?",
+        "answers": [
+            {
+                "alternative": "AYT",
+                "answer": "Antalya"
+            },
+            {
+                "alternative": "BSL",
+                "answer": "Basel"
+            },
+            {
+                "alternative": "BIO",
+                "answer": "Bilbao"
+            },
+            {
+                "alternative": "DBV",
+                "answer": "Dubrovnik"
+            },
+            {
+                "alternative": "FLR",
+                "answer": "Florens"
+            },
+            {
+                "alternative": "KTW",
+                "answer": "Katowice"
+            },
+            {
+                "alternative": "KBP",
+                "answer": "Kiev"
+            },
+            {
+                "alternative": "STN",
+                "answer": "London"
+            },
+            {
+                "alternative": "LYS",
+                "answer": "Lyon"
+            },
+            {
+                "alternative": "ORY",
+                "answer": "Paris"
+            }
+        ]
+    },
+    {
+        "id": "tr-46",
+        "series": "travel",
+        "type": "regular",
+        "question": "I vilken stad finns denna nattklubb?",
+        "answers": [
+            {
+                "alternative": "Cross Club",
+                "answer": "Prag"
+            },
+            {
+                "alternative": "Avalon Hollywood",
+                "answer": "Los Angeles"
+            },
+            {
+                "alternative": "Fabric",
+                "answer": "London"
+            },
+            {
+                "alternative": "Zouk",
+                "answer": "Singapore"
+            },
+            {
+                "alternative": "Ministry of Sound",
+                "answer": "London"
+            },
+            {
+                "alternative": "Output",
+                "answer": "New York"
+            },
+            {
+                "alternative": "Flex",
+                "answer": "Wien"
+            },
+            {
+                "alternative": "Rex Club",
+                "answer": "Paris"
+            },
+            {
+                "alternative": "Berghain",
+                "answer": "Berlin"
+            },
+            {
+                "alternative": "Melkweg",
+                "answer": "Amsterdam"
+            }
+        ]
+    },
+    {
+        "id": "tr-81",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Är världsdelens högsta berg",
+        "answers": [
+            {
+                "alternative": "Zugspitze",
+                "answer": false
+            },
+            {
+                "alternative": "Kilimanjaro",
+                "answer": true
+            },
+            {
+                "alternative": "Matterhorn",
+                "answer": false
+            },
+            {
+                "alternative": "Ben Nevis",
+                "answer": false
+            },
+            {
+                "alternative": "Aoraki",
+                "answer": false
+            },
+            {
+                "alternative": "Everest",
+                "answer": true
+            },
+            {
+                "alternative": "Licancábur",
+                "answer": false
+            },
+            {
+                "alternative": "Vinson Massif",
+                "answer": true
+            },
+            {
+                "alternative": "Aconcagua",
+                "answer": true
+            },
+            {
+                "alternative": "Denali",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "tr-31",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Är ett land vid Medelhavet",
+        "answers": [
+            {
+                "alternative": "Bulgarien",
+                "answer": false
+            },
+            {
+                "alternative": "Jordanien",
+                "answer": false
+            },
+            {
+                "alternative": "Tunisien",
+                "answer": true
+            },
+            {
+                "alternative": "Nordmakedonien",
+                "answer": false
+            },
+            {
+                "alternative": "Algeriet",
+                "answer": true
+            },
+            {
+                "alternative": "Egypten",
+                "answer": true
+            },
+            {
+                "alternative": "Serbien",
+                "answer": false
+            },
+            {
+                "alternative": "Malta",
+                "answer": true
+            },
+            {
+                "alternative": "Turkiet",
+                "answer": true
+            },
+            {
+                "alternative": "Cypern",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "tr-79",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Är en av världens 10 mest besökta städer (internationella besökare 2016, 2017)",
+        "answers": [
+            {
+                "alternative": "Berlin",
+                "answer": false
+            },
+            {
+                "alternative": "Barcelona",
+                "answer": false
+            },
+            {
+                "alternative": "Rom",
+                "answer": false
+            },
+            {
+                "alternative": "London",
+                "answer": true
+            },
+            {
+                "alternative": "Dubai",
+                "answer": true
+            },
+            {
+                "alternative": "Amsterdam",
+                "answer": false
+            },
+            {
+                "alternative": "Bangkok",
+                "answer": true
+            },
+            {
+                "alternative": "New York",
+                "answer": true
+            },
+            {
+                "alternative": "Paris",
+                "answer": true
+            },
+            {
+                "alternative": "Delhi",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "tr-29",
+        "series": "travel",
+        "type": "regular",
+        "question": "Vilken är huvudstaden i landet?",
+        "answers": [
+            {
+                "alternative": "Kamerun",
+                "answer": "Yaoundé"
+            },
+            {
+                "alternative": "Kanada",
+                "answer": "Ottawa"
+            },
+            {
+                "alternative": "Qatar",
+                "answer": "Doha"
+            },
+            {
+                "alternative": "Kenya",
+                "answer": "Nairobi"
+            },
+            {
+                "alternative": "Colombia",
+                "answer": "Bogotá"
+            },
+            {
+                "alternative": "Uganda",
+                "answer": "Kampala"
+            },
+            {
+                "alternative": "Lettland",
+                "answer": "Riga"
+            },
+            {
+                "alternative": "Libanon",
+                "answer": "Beirut"
+            },
+            {
+                "alternative": "Liberia",
+                "answer": "Monrovia"
+            },
+            {
+                "alternative": "Malta",
+                "answer": "Valletta"
+            }
+        ]
+    },
+    {
+        "id": "tr-25",
+        "series": "travel",
+        "type": "rank",
+        "question": "Ordna flygdistanserna mellan städerna efter längd (1=kortast)",
+        "answers": [
+            {
+                "alternative": "Helsingfors - Barcelona",
+                "answer": 6
+            },
+            {
+                "alternative": "New York - San Francisco",
+                "answer": 9
+            },
+            {
+                "alternative": "Sydney - Perth",
+                "answer": 7
+            },
+            {
+                "alternative": "Singapore - Bangkok",
+                "answer": 4
+            },
+            {
+                "alternative": "Moskva - Sankt Petersburg",
+                "answer": 2
+            },
+            {
+                "alternative": "Wien - Berlin",
+                "answer": 1
+            },
+            {
+                "alternative": "Amsterdam - Rom",
+                "answer": 3
+            },
+            {
+                "alternative": "London - Aten",
+                "answer": 5
+            },
+            {
+                "alternative": "Rio de Janeiro - Mexico City",
+                "answer": 10
+            },
+            {
+                "alternative": "Vancouver - Montréal",
+                "answer": 8
+            }
+        ]
+    },
+    {
+        "id": "tr-75",
+        "series": "travel",
+        "type": "regular",
+        "question": "Vilken stads smeknamn?",
+        "answers": [
+            {
+                "alternative": "Den gyllene staden",
+                "answer": "Prag"
+            },
+            {
+                "alternative": "The Big Easy",
+                "answer": "New Orleans"
+            },
+            {
+                "alternative": "Lejonstaden",
+                "answer": "Singapore"
+            },
+            {
+                "alternative": "Syndernas stad",
+                "answer": "Las Vegas"
+            },
+            {
+                "alternative": "Den eviga staden",
+                "answer": "Rom"
+            },
+            {
+                "alternative": "Änglarnas stad",
+                "answer": "Los Angeles"
+            },
+            {
+                "alternative": "Mainhattan",
+                "answer": "Frankfurt am Main"
+            },
+            {
+                "alternative": "Den rosa staden",
+                "answer": "Jaipur"
+            },
+            {
+                "alternative": "Square Mile",
+                "answer": "London"
+            },
+            {
+                "alternative": "Orientens pärla",
+                "answer": "Hongkong"
+            }
+        ]
+    },
+    {
+        "id": "tr-62",
+        "series": "travel",
+        "type": "regular",
+        "question": "Huvudstaden i vilken delstat i USA?",
+        "answers": [
+            {
+                "alternative": "Springfield",
+                "answer": "Illinois"
+            },
+            {
+                "alternative": "Atlanta",
+                "answer": "Georgia"
+            },
+            {
+                "alternative": "Oklahoma City",
+                "answer": "Oklahoma"
+            },
+            {
+                "alternative": "Juneau",
+                "answer": "Alaska"
+            },
+            {
+                "alternative": "Columbus",
+                "answer": "Ohio"
+            },
+            {
+                "alternative": "Austin",
+                "answer": "Texas"
+            },
+            {
+                "alternative": "Boston",
+                "answer": "Massachusetts"
+            },
+            {
+                "alternative": "Salt Lake City",
+                "answer": "Utah"
+            },
+            {
+                "alternative": "Sacramento",
+                "answer": "Kalifornien"
+            },
+            {
+                "alternative": "Honolulu",
+                "answer": "Hawaii"
+            }
+        ]
+    },
+    {
+        "id": "tr-12",
+        "series": "travel",
+        "type": "regular",
+        "question": "I vilken stad ligger denna välkända plats?",
+        "answers": [
+            {
+                "alternative": "El Zócalo",
+                "answer": "Mexico City"
+            },
+            {
+                "alternative": "Jardin du Luxembourg",
+                "answer": "Paris"
+            },
+            {
+                "alternative": "Victoria & Alfred Waterfront",
+                "answer": "Cape Town"
+            },
+            {
+                "alternative": "Grand Central Terminal",
+                "answer": "New York"
+            },
+            {
+                "alternative": "Balboa Park",
+                "answer": "San Diego"
+            },
+            {
+                "alternative": "Pier 39",
+                "answer": "San Francisco"
+            },
+            {
+                "alternative": "Lotte World",
+                "answer": "Seoul"
+            },
+            {
+                "alternative": "Sensoji-templet",
+                "answer": "Tokyo"
+            },
+            {
+                "alternative": "Förbjudna staden",
+                "answer": "Peking"
+            },
+            {
+                "alternative": "Bryggen",
+                "answer": "Bergen"
+            }
+        ]
+    },
+    {
+        "id": "tr-89",
+        "series": "travel",
+        "type": "regular",
+        "question": "I vilken ort i Norden finns hotellet?",
+        "answers": [
+            {
+                "alternative": "Copperhill Mountain Lodge",
+                "answer": "Åre"
+            },
+            {
+                "alternative": "Mäster Johan",
+                "answer": "Malmö"
+            },
+            {
+                "alternative": "Kex Hostel",
+                "answer": "Reykjavik"
+            },
+            {
+                "alternative": "Bank Hotel",
+                "answer": "Stockholm"
+            },
+            {
+                "alternative": "Ishotellet",
+                "answer": "Jukkasjärvi"
+            },
+            {
+                "alternative": "Dorsia",
+                "answer": "Göteborg"
+            },
+            {
+                "alternative": "Hotell Utter Inn",
+                "answer": "Västerås"
+            },
+            {
+                "alternative": "Treehotel",
+                "answer": "Harads"
+            },
+            {
+                "alternative": "Ett Hem",
+                "answer": "Stockholm"
+            },
+            {
+                "alternative": "The Thief",
+                "answer": "Oslo"
+            }
+        ]
+    },
+    {
+        "id": "tr-39",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Är ett land med vänstertrafik",
+        "answers": [
+            {
+                "alternative": "Nepal",
+                "answer": true
+            },
+            {
+                "alternative": "Japan",
+                "answer": true
+            },
+            {
+                "alternative": "Ungern",
+                "answer": false
+            },
+            {
+                "alternative": "Sydafrika",
+                "answer": true
+            },
+            {
+                "alternative": "Vietnam",
+                "answer": false
+            },
+            {
+                "alternative": "Malta",
+                "answer": true
+            },
+            {
+                "alternative": "Jamaica",
+                "answer": true
+            },
+            {
+                "alternative": "Island",
+                "answer": false
+            },
+            {
+                "alternative": "Singapore",
+                "answer": true
+            },
+            {
+                "alternative": "Kenya",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "tr-80",
+        "series": "travel",
+        "type": "regular",
+        "question": "I vilken stad ligger palatset/slottet?",
+        "answers": [
+            {
+                "alternative": "Topkapıpalatset",
+                "answer": "Istanbul"
+            },
+            {
+                "alternative": "Dogepalatset",
+                "answer": "Venedig"
+            },
+            {
+                "alternative": "Hawa Mahal",
+                "answer": "Jaipur"
+            },
+            {
+                "alternative": "Palazzo Pitti",
+                "answer": "Florens"
+            },
+            {
+                "alternative": "Shuripalatset",
+                "answer": "Naha (Okinawa)"
+            },
+            {
+                "alternative": "Alhambra",
+                "answer": "Granada"
+            },
+            {
+                "alternative": "Grand Palace",
+                "answer": "Bangkok"
+            },
+            {
+                "alternative": "Schönbrunn",
+                "answer": "Wien"
+            },
+            {
+                "alternative": "Nijo slott",
+                "answer": "Kyoto"
+            },
+            {
+                "alternative": "Sanssouci",
+                "answer": "Potsdam"
+            }
+        ]
+    },
+    {
+        "id": "tr-30",
+        "series": "travel",
+        "type": "regular",
+        "question": "”God dag!” – men på vilket språk?",
+        "answers": [
+            {
+                "alternative": "Bun !",
+                "answer": "rumänska"
+            },
+            {
+                "alternative": "Cześć!",
+                "answer": "polska"
+            },
+            {
+                "alternative": "Goddag!",
+                "answer": "danska"
+            },
+            {
+                "alternative": "Olá!",
+                "answer": "portugisiska"
+            },
+            {
+                "alternative": "Merhaba!",
+                "answer": "turkiska"
+            },
+            {
+                "alternative": "Sà-Wàt-Dee",
+                "answer": "thai"
+            },
+            {
+                "alternative": "Salut !",
+                "answer": "franska"
+            },
+            {
+                "alternative": "Privet!",
+                "answer": "ryska"
+            },
+            {
+                "alternative": "nǐ hǎo",
+                "answer": "kinesiska (mandarin)"
+            },
+            {
+                "alternative": "Geia sas!",
+                "answer": "grekiska"
+            }
+        ]
+    },
+    {
+        "id": "tr-90",
+        "series": "travel",
+        "type": "regular",
+        "question": "Vilken sevärdhet i Sverige?",
+        "answers": [
+            {
+                "alternativeUrl": "/questions/tr-90/ales_stenar.jpg",
+                "answer": "Ales stenar"
+            },
+            {
+                "alternativeUrl": "/questions/tr-90/sergels_torg.jpg",
+                "answer": "Sergels torg"
+            },
+            {
+                "alternativeUrl": "/questions/tr-90/stockholms_stadshus.jpg",
+                "answer": "Stockholms stadshus"
+            },
+            {
+                "alternativeUrl": "/questions/tr-90/karnan.jpg",
+                "answer": "Kärnan, Helsingborg"
+            },
+            {
+                "alternativeUrl": "/questions/tr-90/rauk.jpg",
+                "answer": "Rauk på Gotland"
+            },
+            {
+                "alternativeUrl": "/questions/tr-90/drottningholms_slott.jpg",
+                "answer": "Drottningholms slott"
+            },
+            {
+                "alternativeUrl": "/questions/tr-90/turning_torso.jpg",
+                "answer": "Turning Torso"
+            },
+            {
+                "alternativeUrl": "/questions/tr-90/kalmar_slott.jpg",
+                "answer": "Kalmar slott"
+            },
+            {
+                "alternativeUrl": "/questions/tr-90/oresundsbron.jpg",
+                "answer": "Öresundsbron"
+            },
+            {
+                "alternativeUrl": "/questions/tr-90/globen.jpg",
+                "answer": "Avicii Arena (Globen)"
+            }
+        ]
+    },
+    {
+        "id": "tr-40",
+        "series": "travel",
+        "type": "regular",
+        "question": "I vilket land ligger staden?",
+        "answers": [
+            {
+                "alternative": "Kochi",
+                "answer": "Indien"
+            },
+            {
+                "alternative": "Hanoi",
+                "answer": "Vietnam"
+            },
+            {
+                "alternative": "Mogadishu",
+                "answer": "Somalia"
+            },
+            {
+                "alternative": "Yaoundé",
+                "answer": "Kamerun"
+            },
+            {
+                "alternative": "Riyadh",
+                "answer": "Saudiarabien"
+            },
+            {
+                "alternative": "Ulan Bator",
+                "answer": "Mongoliet"
+            },
+            {
+                "alternative": "Bengaluru",
+                "answer": "Indien"
+            },
+            {
+                "alternative": "Managua",
+                "answer": "Nicaragua"
+            },
+            {
+                "alternative": "Baku",
+                "answer": "Azerbajdzjan"
+            },
+            {
+                "alternative": "Izjevsk",
+                "answer": "Ryssland"
+            }
+        ]
+    },
+    {
+        "id": "tr-76",
+        "series": "travel",
+        "type": "rank",
+        "question": "Ordna kyrkorna efter höjd (2019; 1=högst)",
+        "answers": [
+            {
+                "alternative": "Hallgrímskirkja (Reykjavik)",
+                "answer": 8
+            },
+            {
+                "alternative": "Ulmer Münster",
+                "answer": 1
+            },
+            {
+                "alternative": "Uppsala domkyrka",
+                "answer": 6
+            },
+            {
+                "alternative": "Westminister Abbey (London)",
+                "answer": 9
+            },
+            {
+                "alternative": "Vasilij-katedralen",
+                "answer": 10
+            },
+            {
+                "alternative": "Peterskyrkan",
+                "answer": 4
+            },
+            {
+                "alternative": "Vårfrukatedralen i Strasbourg",
+                "answer": 3
+            },
+            {
+                "alternative": "Sankt Olavs kyrka (Tallinn)",
+                "answer": 5
+            },
+            {
+                "alternative": "Sankt Pauls-katedralen (London)",
+                "answer": 7
+            },
+            {
+                "alternative": "Kölnerdomen",
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "id": "tr-26",
+        "series": "travel",
+        "type": "regular",
+        "question": "I vilken stad finns denna köpgata?",
+        "answers": [
+            {
+                "alternative": "Nguyen Trai Street",
+                "answer": "Saigon"
+            },
+            {
+                "alternative": "Bond Street",
+                "answer": "London"
+            },
+            {
+                "alternative": "Aleksanterinkatu",
+                "answer": "Helsinfors"
+            },
+            {
+                "alternative": "Strøget",
+                "answer": "Köpenhamn"
+            },
+            {
+                "alternative": "Leidsestraat",
+                "answer": "Amsterdam"
+            },
+            {
+                "alternative": "Bukit Bintang",
+                "answer": "Kuala Lumpur"
+            },
+            {
+                "alternative": "Louizalaan",
+                "answer": "Bryssel"
+            },
+            {
+                "alternative": "Kaufingerstraße",
+                "answer": "München"
+            },
+            {
+                "alternative": "Voukourestiou",
+                "answer": "Aten"
+            },
+            {
+                "alternative": "Khao San Road",
+                "answer": "Bangkok"
+            }
+        ]
+    },
+    {
+        "id": "tr-78",
+        "series": "travel",
+        "type": "regular",
+        "question": "I vilken stad finns stadsdelen?",
+        "answers": [
+            {
+                "alternative": "Kreuzberg",
+                "answer": "Berlin"
+            },
+            {
+                "alternative": "Psiri",
+                "answer": "Aten"
+            },
+            {
+                "alternative": "Belleville",
+                "answer": "Paris"
+            },
+            {
+                "alternative": "Queens",
+                "answer": "New York"
+            },
+            {
+                "alternative": "Westwood",
+                "answer": "Los Angeles"
+            },
+            {
+                "alternative": "Jordaan",
+                "answer": "Amsterdam"
+            },
+            {
+                "alternative": "Arbat",
+                "answer": "Moskva"
+            },
+            {
+                "alternative": "Notting Hill",
+                "answer": "London"
+            },
+            {
+                "alternative": "Erzsébetváros",
+                "answer": "Budapest"
+            },
+            {
+                "alternative": "Gràcia",
+                "answer": "Barcelona"
+            }
+        ]
+    },
+    {
+        "id": "tr-77",
+        "series": "travel",
+        "type": "regular",
+        "question": "”Jag älskar dig” - men på vilket språk?",
+        "answers": [
+            {
+                "alternative": "Ai shite imasu",
+                "answer": "japanska"
+            },
+            {
+                "alternative": "Wǒ ài nǐ",
+                "answer": "kinesiska (mandarin)"
+            },
+            {
+                "alternative": "Ya lyublyu tyebya",
+                "answer": "ryska"
+            },
+            {
+                "alternative": "Je t’taime",
+                "answer": "franska"
+            },
+            {
+                "alternative": "Ana behibek",
+                "answer": "arabiska"
+            },
+            {
+                "alternative": "Main tumse pyar kartha hoon",
+                "answer": "hindi"
+            },
+            {
+                "alternative": "S’agapo",
+                "answer": "grekiska"
+            },
+            {
+                "alternative": "Ma armastan sind",
+                "answer": "estniska"
+            },
+            {
+                "alternative": "Ani ohev otakh",
+                "answer": "hebreiska"
+            },
+            {
+                "alternative": "Ti amo",
+                "answer": "italienska"
+            }
+        ]
+    },
+    {
+        "id": "tr-27",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Är ett av världens 10 mest besökta länder (2017)",
+        "answers": [
+            {
+                "alternative": "Thailand",
+                "answer": true
+            },
+            {
+                "alternative": "Österrike",
+                "answer": false
+            },
+            {
+                "alternative": "Japan",
+                "answer": false
+            },
+            {
+                "alternative": "Frankrike",
+                "answer": true
+            },
+            {
+                "alternative": "Ryssland",
+                "answer": false
+            },
+            {
+                "alternative": "Mexiko",
+                "answer": true
+            },
+            {
+                "alternative": "Turkiet",
+                "answer": true
+            },
+            {
+                "alternative": "Indien",
+                "answer": false
+            },
+            {
+                "alternative": "Spanien",
+                "answer": true
+            },
+            {
+                "alternative": "USA",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "tr-71",
+        "series": "travel",
+        "type": "regular",
+        "question": "I vilket land finns denna sevärdhet?",
+        "answers": [
+            {
+                "alternative": "al-Aqsamoskén",
+                "answer": "Israel"
+            },
+            {
+                "alternative": "Burj Al Arab",
+                "answer": "Förenade Arabemiraten"
+            },
+            {
+                "alternative": "Cusco",
+                "answer": "Peru"
+            },
+            {
+                "alternative": "Mont-Saint-Michel",
+                "answer": "Frankrike"
+            },
+            {
+                "alternative": "Masada",
+                "answer": "Israel"
+            },
+            {
+                "alternative": "Moaistatyer",
+                "answer": "Chile (Påskön)"
+            },
+            {
+                "alternative": "Petra",
+                "answer": "Jordanien"
+            },
+            {
+                "alternative": "Potala-palatset",
+                "answer": "Tibet"
+            },
+            {
+                "alternative": "Stora moskén i Djenné",
+                "answer": "Mali"
+            },
+            {
+                "alternative": "Machu Picchu",
+                "answer": "Peru"
+            }
+        ]
+    },
+    {
+        "id": "tr-21",
+        "series": "travel",
+        "type": "regular",
+        "question": "I vilket land hittar du denna staty?",
+        "answers": [
+            {
+                "alternative": "Fosterlandet kallar",
+                "answer": "Ryssland"
+            },
+            {
+                "alternative": "David",
+                "answer": "Italien"
+            },
+            {
+                "alternative": "Den lilla sjöjungfrun",
+                "answer": "Danmark"
+            },
+            {
+                "alternative": "Manneken Pis",
+                "answer": "Belgien"
+            },
+            {
+                "alternative": "Zhongyuan-Buddha",
+                "answer": "Kina"
+            },
+            {
+                "alternative": "Tänkaren",
+                "answer": "Frankrike"
+            },
+            {
+                "alternative": "Nemrut Dağı",
+                "answer": "Turkiet"
+            },
+            {
+                "alternative": "Olmekiska kolossalstatyer",
+                "answer": "Mexiko"
+            },
+            {
+                "alternative": "Lejonterrassen",
+                "answer": "Grekland"
+            },
+            {
+                "alternative": "The Kelpies",
+                "answer": "Storbritannien"
+            }
+        ]
+    },
+    {
+        "id": "tr-72",
+        "series": "travel",
+        "type": "regular",
+        "question": "Huvudstad/huvudort på vilken ö?",
+        "answers": [
+            {
+                "alternative": "Palermo",
+                "answer": "Sicilien"
+            },
+            {
+                "alternative": "Nicosia",
+                "answer": "Cypern"
+            },
+            {
+                "alternative": "Herklion",
+                "answer": "Kreta"
+            },
+            {
+                "alternative": "Palma",
+                "answer": "Mallorca"
+            },
+            {
+                "alternative": "Valletta",
+                "answer": "Malta"
+            },
+            {
+                "alternative": "Mataram",
+                "answer": "Lombok"
+            },
+            {
+                "alternative": "Papeete",
+                "answer": "Tahiti"
+            },
+            {
+                "alternative": "Cagliari",
+                "answer": "Sardinien"
+            },
+            {
+                "alternative": "Sapporo",
+                "answer": "Hokkaido"
+            },
+            {
+                "alternative": "Kingston",
+                "answer": "Jamaica"
+            }
+        ]
+    },
+    {
+        "id": "tr-22",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Är en välkänd hotellkedja",
+        "answers": [
+            {
+                "alternative": "Magnuson Hotels",
+                "answer": true
+            },
+            {
+                "alternative": "Inter-Continental",
+                "answer": true
+            },
+            {
+                "alternative": "Marriott International",
+                "answer": true
+            },
+            {
+                "alternative": "Outlook",
+                "answer": false
+            },
+            {
+                "alternative": "Meliá",
+                "answer": true
+            },
+            {
+                "alternative": "7Home",
+                "answer": false
+            },
+            {
+                "alternative": "Palm View",
+                "answer": false
+            },
+            {
+                "alternative": "Accor",
+                "answer": true
+            },
+            {
+                "alternative": "Best Southern",
+                "answer": false
+            },
+            {
+                "alternative": "G6 Hospitality",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "tr-63",
+        "series": "travel",
+        "type": "regular",
+        "question": "Vilket land har detta nationalitetsmärke för motorfordon?",
+        "answers": [
+            {
+                "alternative": "AL",
+                "answer": "Albanien"
+            },
+            {
+                "alternative": "RSM",
+                "answer": "San Marino"
+            },
+            {
+                "alternative": "CY",
+                "answer": "Cypern"
+            },
+            {
+                "alternative": "IS",
+                "answer": "Island"
+            },
+            {
+                "alternative": "MNE",
+                "answer": "Montenegro"
+            },
+            {
+                "alternative": "MC",
+                "answer": "Monaco"
+            },
+            {
+                "alternative": "FL",
+                "answer": "Liechtenstein"
+            },
+            {
+                "alternative": "P",
+                "answer": "Portugal"
+            },
+            {
+                "alternative": "L",
+                "answer": "Luxemburg"
+            },
+            {
+                "alternative": "BG",
+                "answer": "Bulgarien"
+            }
+        ]
+    },
+    {
+        "id": "tr-13",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Är en delstat längs U.S. Route 66",
+        "answers": [
+            {
+                "alternative": "Texas",
+                "answer": true
+            },
+            {
+                "alternative": "West Virginia",
+                "answer": false
+            },
+            {
+                "alternative": "New Mexico",
+                "answer": true
+            },
+            {
+                "alternative": "Virginia",
+                "answer": false
+            },
+            {
+                "alternative": "Kalifornien",
+                "answer": true
+            },
+            {
+                "alternative": "Kansas",
+                "answer": true
+            },
+            {
+                "alternative": "Illinois",
+                "answer": true
+            },
+            {
+                "alternative": "Nevada",
+                "answer": false
+            },
+            {
+                "alternative": "Arizona",
+                "answer": true
+            },
+            {
+                "alternative": "Florida",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "tr-66",
+        "series": "travel",
+        "type": "regular",
+        "question": "Vilken valuta har landet?",
+        "answers": [
+            {
+                "alternative": "Argentina",
+                "answer": "peso"
+            },
+            {
+                "alternative": "Vietnam",
+                "answer": "dong"
+            },
+            {
+                "alternative": "Indien",
+                "answer": "indisk rupie"
+            },
+            {
+                "alternative": "Israel",
+                "answer": "shekel"
+            },
+            {
+                "alternative": "Ryssland",
+                "answer": "rysk rubel"
+            },
+            {
+                "alternative": "Tjeckien",
+                "answer": "tjeckisk krona"
+            },
+            {
+                "alternative": "Serbien",
+                "answer": "serbisk dinar"
+            },
+            {
+                "alternative": "Hongkong",
+                "answer": "hongkong-dollar"
+            },
+            {
+                "alternative": "Brasilien",
+                "answer": "real"
+            },
+            {
+                "alternative": "Turkiet",
+                "answer": "turkisk lira"
+            }
+        ]
+    },
+    {
+        "id": "tr-16",
+        "series": "travel",
+        "type": "rank",
+        "question": "Ordna städerna från väst (1) till öst (10)",
+        "answers": [
+            {
+                "alternative": "Málaga",
+                "answer": 2
+            },
+            {
+                "alternative": "Izmir",
+                "answer": 10
+            },
+            {
+                "alternative": "Sofia",
+                "answer": 9
+            },
+            {
+                "alternative": "Dublin",
+                "answer": 1
+            },
+            {
+                "alternative": "Paris",
+                "answer": 4
+            },
+            {
+                "alternative": "Valencia",
+                "answer": 3
+            },
+            {
+                "alternative": "Milano",
+                "answer": 6
+            },
+            {
+                "alternative": "Belgrad",
+                "answer": 8
+            },
+            {
+                "alternative": "Köln",
+                "answer": 5
+            },
+            {
+                "alternative": "Budapest",
+                "answer": 7
+            }
+        ]
+    },
+    {
+        "id": "tr-65",
+        "series": "travel",
+        "type": "regular",
+        "question": "I vilken stad finns denna shoppinggata?",
+        "answers": [
+            {
+                "alternative": "Fifth Avenue",
+                "answer": "New York"
+            },
+            {
+                "alternative": "Graben",
+                "answer": "Wien"
+            },
+            {
+                "alternative": "Rodeo Drive",
+                "answer": "Beverly Hills"
+            },
+            {
+                "alternative": "Kalverstraat",
+                "answer": "Amsterdam"
+            },
+            {
+                "alternative": "Tverskoy Boulevard",
+                "answer": "Moskva"
+            },
+            {
+                "alternative": "Laugavegur",
+                "answer": "Reykjavik"
+            },
+            {
+                "alternative": "Orchard Road",
+                "answer": "Singapore"
+            },
+            {
+                "alternative": "Calle Serrano",
+                "answer": "Madrid"
+            },
+            {
+                "alternative": "Ginza",
+                "answer": "Tokyo"
+            },
+            {
+                "alternative": "Ben Yehuda Street",
+                "answer": "Jerusalem"
+            }
+        ]
+    },
+    {
+        "id": "tr-15",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Är en sevärdhet i Firenze",
+        "answers": [
+            {
+                "alternative": "Piazza dei Miracoli",
+                "answer": false
+            },
+            {
+                "alternative": "Piazza del Amphitheatro",
+                "answer": false
+            },
+            {
+                "alternative": "Uffizierna",
+                "answer": true
+            },
+            {
+                "alternative": "Ponte Vecchio",
+                "answer": true
+            },
+            {
+                "alternative": "Palazzo Vecchio",
+                "answer": true
+            },
+            {
+                "alternative": "tornet Guinigi",
+                "answer": false
+            },
+            {
+                "alternative": "Santa Reparata",
+                "answer": true
+            },
+            {
+                "alternative": "Battistero di San Giovanni",
+                "answer": true
+            },
+            {
+                "alternative": "muralmålningen Nattvarden",
+                "answer": false
+            },
+            {
+                "alternative": "Bocca della Verità",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "tr-64",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Är en lyxhotellkedja",
+        "answers": [
+            {
+                "alternative": "All Seasons",
+                "answer": false
+            },
+            {
+                "alternative": "Conrad",
+                "answer": true
+            },
+            {
+                "alternative": "Kempinski",
+                "answer": true
+            },
+            {
+                "alternative": "Four Seasons",
+                "answer": true
+            },
+            {
+                "alternative": "Mercure",
+                "answer": false
+            },
+            {
+                "alternative": "Courtyard",
+                "answer": false
+            },
+            {
+                "alternative": "Ritz-Carlton",
+                "answer": true
+            },
+            {
+                "alternative": "Park Hyatt",
+                "answer": true
+            },
+            {
+                "alternative": "Crowne Plaza",
+                "answer": false
+            },
+            {
+                "alternative": "Sofitel",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "tr-14",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Är en av Frankrikes regioner",
+        "answers": [
+            {
+                "alternative": "Grand Est",
+                "answer": true
+            },
+            {
+                "alternative": "Hainaut",
+                "answer": false
+            },
+            {
+                "alternative": "Occitanien",
+                "answer": true
+            },
+            {
+                "alternative": "Normandie",
+                "answer": true
+            },
+            {
+                "alternative": "Bretagne",
+                "answer": true
+            },
+            {
+                "alternative": "Hauts-de-France",
+                "answer": true
+            },
+            {
+                "alternative": "Korsika",
+                "answer": true
+            },
+            {
+                "alternative": "Pays de la Loire",
+                "answer": true
+            },
+            {
+                "alternative": "Rouneaux",
+                "answer": false
+            },
+            {
+                "alternative": "Île-de-France",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "tr-23",
+        "series": "travel",
+        "type": "regular",
+        "question": "I vilken stad ligger denna park?",
+        "answers": [
+            {
+                "alternative": "Park Güell",
+                "answer": "Barcelona"
+            },
+            {
+                "alternative": "Central Park",
+                "answer": "New York City"
+            },
+            {
+                "alternative": "Schönbrunn",
+                "answer": "Wien"
+            },
+            {
+                "alternative": "Hyde Park",
+                "answer": "London"
+            },
+            {
+                "alternative": "Vondelpark",
+                "answer": "Amsterdam"
+            },
+            {
+                "alternative": "Frognerparken",
+                "answer": "Oslo"
+            },
+            {
+                "alternative": "Sanssouci",
+                "answer": "Potsdam"
+            },
+            {
+                "alternative": "Bois de Boulogne",
+                "answer": "Paris"
+            },
+            {
+                "alternative": "Uenoparken",
+                "answer": "Tokyo"
+            },
+            {
+                "alternative": "Beihaiparken",
+                "answer": "Peking"
+            }
+        ]
+    },
+    {
+        "id": "tr-24",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Är ett konstverk som finns i Louvren i Paris",
+        "answers": [
+            {
+                "alternative": "Tänkaren",
+                "answer": false
+            },
+            {
+                "alternative": "Hammurabi-stelen",
+                "answer": true
+            },
+            {
+                "alternative": "Venus de Milo",
+                "answer": true
+            },
+            {
+                "alternative": "Venus födelse",
+                "answer": false
+            },
+            {
+                "alternative": "Nike från Samothrake",
+                "answer": true
+            },
+            {
+                "alternative": "Stjärnenatt i Saint-Rémy",
+                "answer": false
+            },
+            {
+                "alternative": "Doktor Tulps anatomilektion",
+                "answer": false
+            },
+            {
+                "alternative": "Friheten på barrikaderna",
+                "answer": true
+            },
+            {
+                "alternative": "Ramses II",
+                "answer": true
+            },
+            {
+                "alternative": "Knypplerskan",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": "tr-74",
+        "series": "travel",
+        "type": "boolean",
+        "question": "Är medlem i flygbolagsalliansen Star Alliance",
+        "answers": [
+            {
+                "alternative": "Air China",
+                "answer": true
+            },
+            {
+                "alternative": "British Airways",
+                "answer": false
+            },
+            {
+                "alternative": "Austrian Airlines",
+                "answer": true
+            },
+            {
+                "alternative": "Lufthansa",
+                "answer": true
+            },
+            {
+                "alternative": "Turkish Airlines",
+                "answer": true
+            },
+            {
+                "alternative": "Alitalia",
+                "answer": false
+            },
+            {
+                "alternative": "United Airlines",
+                "answer": true
+            },
+            {
+                "alternative": "Cathay Pacific",
+                "answer": false
+            },
+            {
+                "alternative": "Aegean Airlines",
+                "answer": true
+            },
+            {
+                "alternative": "Qantas",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": "tr-73",
+        "series": "travel",
+        "type": "regular",
+        "question": "Vilken av USA:s delstater har denna flagga?",
+        "answers": [
+            {
+                "alternativeUrl": "/questions/tr-73/hawaii.svg",
+                "answer": "Hawaii"
+            },
+            {
+                "alternativeUrl": "/questions/tr-73/alabama.svg",
+                "answer": "Alabama"
+            },
+            {
+                "alternativeUrl": "/questions/tr-73/south_carolina.svg",
+                "answer": "South Carolina"
+            },
+            {
+                "alternativeUrl": "/questions/tr-73/new_jersey.svg",
+                "answer": "New Jersey"
+            },
+            {
+                "alternativeUrl": "/questions/tr-73/arizona.svg",
+                "answer": "Arizona"
+            },
+            {
+                "alternativeUrl": "/questions/tr-73/california.svg",
+                "answer": "Kalifornien"
+            },
+            {
+                "alternativeUrl": "/questions/tr-73/colorado.svg",
+                "answer": "Colorado"
+            },
+            {
+                "alternativeUrl": "/questions/tr-73/new_mexico.svg",
+                "answer": "New Mexico"
+            },
+            {
+                "alternativeUrl": "/questions/tr-73/washington.svg",
+                "answer": "Washington"
+            },
+            {
+                "alternativeUrl": "/questions/tr-73/texas.svg",
+                "answer": "Texas"
+            }
+        ]
     }
 ]
