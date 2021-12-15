@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { SubmitButton } from '../../s'
+import { SubmitButton } from './game'
 
 export const Wrapper = styled.div`
     display: flex;

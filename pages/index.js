@@ -12,7 +12,7 @@ import {
     Logo,
     Select, Players, Player,
     SubmitButton
-} from './s'
+} from '/components/start'
 import smart10 from '/smart10.json'
 import { Star, Circle, Triangle, Square } from 'styled-icons/feather'
 

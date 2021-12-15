@@ -9,7 +9,7 @@ import {
     Board,
     Container,
     Question, Answers, Answer, Alternative, Plupp
-} from './s'
+} from '/components/game'
 import Scores from './scores'
 import { Check, X } from 'styled-icons/feather'
 

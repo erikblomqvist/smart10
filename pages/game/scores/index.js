@@ -2,7 +2,7 @@ import { compact } from '/utilities/array'
 import {
     Wrapper,
     Player, PassButton
-} from './s'
+} from '/components/scores'
 import { Star, Circle, Triangle, Square } from 'styled-icons/feather'
 
 const Scores = ({ players = [], setPlayers, nextPlayer, currentPlayer }) => (
